@@ -1,0 +1,21 @@
+sample_id	assembly_name	accession	species	source_group	anchor_role	source_fasta_path
+GCF_000240135.3	ASM24013v3	GCF_000240135.3	Fusarium_graminearum_PH1	fusarium	anchor	/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCF_000240135.3/protein.faa
+GCA_037255895.1	ASM3725589v1	GCA_037255895.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_037255895.1/protein.faa
+GCA_900073075.1	CML3066.v2	GCA_900073075.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_900073075.1/protein.faa
+GCA_037213105.1	ASM3721310v1	GCA_037213105.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_037213105.1/protein.faa
+GCA_900044135.1	GZPH1RResV1	GCA_900044135.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_900044135.1/protein.faa
+GCA_037074405.1	ASM3707440v1	GCA_037074405.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_037074405.1/protein.faa
+GCA_037074415.1	ASM3707441v1	GCA_037074415.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_037074415.1/protein.faa
+GCA_000599445.1	CS3005v1	GCA_000599445.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_000599445.1/protein.faa
+GCA_900492705.2	MDC_Fg1	GCA_900492705.2	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_900492705.2/protein.faa
+GCA_002352725.1	FGRA07	GCA_002352725.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_002352725.1/protein.faa
+GCA_905359455.1	MDC_Fg593	GCA_905359455.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905359455.1/protein.faa
+GCA_905332025.1	MDC_Fg5	GCA_905332025.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905332025.1/protein.faa
+GCA_905332055.1	MDC_FgU1	GCA_905332055.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905332055.1/protein.faa
+GCA_012959185.1	ASM1295918v1	GCA_012959185.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_012959185.1/protein.faa
+GCA_905359485.1	MDC_Fg202	GCA_905359485.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905359485.1/protein.faa
+GCA_905359475.1	MDC_Fg851	GCA_905359475.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905359475.1/protein.faa
+GCA_901446245.1	MDC_Fg13	GCA_901446245.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_901446245.1/protein.faa
+GCA_905359465.1	MDC_Fg8	GCA_905359465.1	Fusarium_graminearum	fusarium		/data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCA_905359465.1/protein.faa
+Scerevisiae	Scerevisiae	NA	Saccharomyces_cerevisiae	yeast		/data276/jiehuang/fungi/Fusarium/orthofinder_essential_workflow/Yeast/Scerevisiae.pep.fa
+Spombe	Spombe	NA	Schizosaccharomyces_pombe	yeast		/data276/jiehuang/fungi/Fusarium/orthofinder_essential_workflow/Yeast/Spombe.pep.fa

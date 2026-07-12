@@ -1,0 +1,34 @@
+workflow	path	path_type	dependency_mode	declared_in_snakemake	read_in_python	role	risk_level	recommendation
+classical_baseline_benchmark.smk	results/label_rebuild_experiments/old440/labels/positive_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+classical_baseline_benchmark.smk	results/label_rebuild_experiments/old440/labels/negative_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+classical_baseline_benchmark.smk	results/label_rebuild_experiments/labels/positive_set_P1.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+classical_baseline_benchmark.smk	results/label_rebuild_experiments/labels/negative_set.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+classical_baseline_benchmark.smk	results/frozen_protocol/labels/	dir	workflow_internal	true	true	当前 workflow 生成的协议化 frozen labels，中间产物	MEDIUM	可保留语义，但建议迁出 results 根或单独命名为 artifacts/data
+classical_baseline_benchmark.smk	results/frozen_protocol/splits/	dir	workflow_internal	true	true	当前 workflow 生成的协议化 frozen splits，中间产物	MEDIUM	可保留语义，但建议迁出 results 根或单独命名为 artifacts/data
+classical_baseline_benchmark.smk	results/frozen_protocol/summary/	dir	output_only	false	false	freeze_protocol 摘要输出	LOW	无需作为运行输入；保持输出属性
+classical_baseline_benchmark.smk	results/classical_baseline_benchmark/	dir	output_only	true	false	当前 classical benchmark summary 输出	LOW	保持输出目录，不要反向作为输入
+classical_baseline_benchmark.smk	results/phase2a_figures/	dir	not_used	false	false	历史分析产物，不参与当前运行	LOW	无需处理
+classical_baseline_benchmark.smk	results/phase2b_new_label/	dir	not_used	false	false	历史 phase2b 输出目录；当前 workflow 未读取	LOW	不要作为运行依赖
+classical_baseline_benchmark.smk	results/fgraminearum_feature_combo_analysis/	dir	not_used	false	false	历史 feature combo 分析目录，不参与当前运行	LOW	无需处理
+fgraminearum_old_newlabel_benchmark.smk	results/label_rebuild_experiments/old440/labels/positive_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+fgraminearum_old_newlabel_benchmark.smk	results/label_rebuild_experiments/old440/labels/negative_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+fgraminearum_old_newlabel_benchmark.smk	results/label_rebuild_experiments/labels/positive_set_P1.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+fgraminearum_old_newlabel_benchmark.smk	results/label_rebuild_experiments/labels/negative_set.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+fgraminearum_old_newlabel_benchmark.smk	results/frozen_protocol/labels/	dir	workflow_internal	true	true	当前 workflow 生成并读取的 frozen labels 中间产物	MEDIUM	保留协议语义，但建议迁出 results 根
+fgraminearum_old_newlabel_benchmark.smk	results/frozen_protocol/splits/	dir	workflow_internal	true	true	当前 workflow 生成并读取的 frozen splits 中间产物	MEDIUM	保留协议语义，但建议迁出 results 根
+fgraminearum_old_newlabel_benchmark.smk	results/frozen_protocol/summary/	dir	output_only	false	false	freeze_protocol 摘要输出	LOW	保持输出属性
+fgraminearum_old_newlabel_benchmark.smk	results/fgraminearum_old_newlabel_benchmark/	dir	output_only	true	true	当前 benchmark summary 输出，analysis 阶段会读取其中 TSV	LOW	保留当前输出链
+fgraminearum_old_newlabel_benchmark.smk	results/fgraminearum_old_newlabel_feature_combo_analysis/	dir	output_only	true	false	当前 analysis 输出目录	LOW	保持输出目录，不要作为上游源
+fgraminearum_old_newlabel_benchmark.smk	results/fgraminearum_feature_combo_analysis/	dir	not_used	false	false	历史 feature combo 分析目录，不参与当前运行	LOW	无需处理
+fgraminearum_old_newlabel_benchmark.smk	results/phase2a_figures/	dir	not_used	false	false	历史分析产物，不参与当前运行	LOW	无需处理
+fgraminearum_old_newlabel_benchmark.smk	results/phase2b_new_label/	dir	not_used	false	false	历史 phase2b 输出目录；当前 workflow 未读取	LOW	不要作为运行依赖
+frozen_protocol_benchmark.smk	results/label_rebuild_experiments/old440/labels/positive_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+frozen_protocol_benchmark.smk	results/label_rebuild_experiments/old440/labels/negative_old440.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium oldlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+frozen_protocol_benchmark.smk	results/label_rebuild_experiments/labels/positive_set_P1.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 正样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+frozen_protocol_benchmark.smk	results/label_rebuild_experiments/labels/negative_set.tsv	file	historical_audit_record	false	false	历史审计记录中的 Fusarium newlabel 负样本源；当前主线已迁移	HIGH	保留为 archive / provenance，不再作为主线输入
+frozen_protocol_benchmark.smk	results/frozen_protocol/labels/	dir	workflow_internal	true	true	当前 workflow 生成并读取的 frozen labels 中间产物	MEDIUM	可保留协议语义，但建议迁出 results 根
+frozen_protocol_benchmark.smk	results/frozen_protocol/splits/	dir	workflow_internal	true	true	当前 workflow 生成并读取的 frozen splits 中间产物	MEDIUM	可保留协议语义，但建议迁出 results 根
+frozen_protocol_benchmark.smk	results/frozen_protocol/summary/	dir	output_only	true	false	当前 benchmark 聚合 summary 输出	LOW	保持输出属性
+frozen_protocol_benchmark.smk	results/phase2a_figures/	dir	not_used	false	false	历史分析产物，不参与当前运行	LOW	无需处理
+frozen_protocol_benchmark.smk	results/phase2b_new_label/	dir	not_used	false	false	历史 phase2b 输出目录；当前 workflow 未读取	LOW	不要作为运行依赖
+frozen_protocol_benchmark.smk	results/fgraminearum_feature_combo_analysis/	dir	not_used	false	false	历史 analysis 目录，不参与当前运行	LOW	无需处理

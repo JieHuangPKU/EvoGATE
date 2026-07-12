@@ -1,0 +1,2 @@
+species	final_essential_count	final_nonessential_count	final_total_labeled	split_train_count	split_val_count	split_test_count	notes
+scerevisiae	1050	4578	5628	3939	844	845	Rebuilt from Bingo

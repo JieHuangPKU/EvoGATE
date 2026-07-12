@@ -1,0 +1,14 @@
+canonical_gene_id	historical_positive_sources	present_in_pre_reaudit_processed	present_in_post_rebuild_processed	status_after_rebuild	post_positive_sources	post_construction_bucket	post_supporting_xp_ids	post_supporting_orthogroup_ids	post_supporting_bridge_methods	historical_lethal_mapping_rule	historical_lethal_raw_gene_id	historical_lethal_raw_protein_id
+fgraminearum::FGRAMPH1_01G06521	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G06521	A0A1C3YJ08
+fgraminearum::FGRAMPH1_01G08565	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G08565	A0A098DCA9
+fgraminearum::FGRAMPH1_01G10683	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G10683	A0A0E0S0W9
+fgraminearum::FGRAMPH1_01G12137	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G12137	A0A0E0S2Z7
+fgraminearum::FGRAMPH1_01G12993	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G12993	A0A098DIL8
+fgraminearum::FGRAMPH1_01G15969	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G15969	A0A098DLE7
+fgraminearum::FGRAMPH1_01G17027	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G17027	A0A0E0SN30
+fgraminearum::FGRAMPH1_01G22301	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G22301	A0A1C3YKY1
+fgraminearum::FGRAMPH1_01G22799	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G22799	A0A0E0SDU8
+fgraminearum::FGRAMPH1_01G24875	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G24875	A0A098DP54
+fgraminearum::FGRAMPH1_01G25209	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G25209	A0A1C3YL60
+fgraminearum::FGRAMPH1_01G25269	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G25269	A0A098DPU7
+fgraminearum::FGRAMPH1_01G28009	lethal	false	false	still_unresolved						raw_gene_id_is_FGRAMPH1	FGRAMPH1_01G28009	A0A1C3YLW2

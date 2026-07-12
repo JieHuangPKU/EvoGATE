@@ -1,0 +1,30 @@
+layer	node	count
+Final label class	Essential (positive)	1097
+Final label class	Non-essential / excluded	8
+Mapped Fusarium genes	PHI-mapped Fusarium genes (n=52)	52
+Mapped Fusarium genes	"S. cerevisiae only
+mapped Fusarium genes (n=117)"	117
+Mapped Fusarium genes	"S. pombe only
+mapped Fusarium genes (n=399)"	399
+Mapped Fusarium genes	"Shared by both yeasts
+mapped Fusarium genes (n=529)"	529
+Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	8
+Support source	PHI-base essential/lethal	52
+Support source	S. cerevisiae only	118
+Support source	S. pombe only	402
+Support source	Shared by both yeasts	533
+Supported orthogroups	"Direct PHI evidence
+(no yeast orthogroup) (n=52)"	52
+Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=1)"	1
+Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=117)"	117
+Supported orthogroups	"S. pombe only
+supported orthogroups (n=3)"	3
+Supported orthogroups	"S. pombe only
+supported orthogroups (n=398)"	399
+Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=4)"	4
+Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=529)"	529

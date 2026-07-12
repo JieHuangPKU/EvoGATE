@@ -1,0 +1,12 @@
+protocol	species	rescue_count	gene_count	rescue_frequency	gene_fraction	stable_retained
+fgraminearum_newlabel	fgraminearum	0	183	0.0	0.8356164383561644	False
+fgraminearum_newlabel	fgraminearum	1	13	0.2	0.0593607305936073	False
+fgraminearum_newlabel	fgraminearum	2	7	0.4	0.0319634703196347	True
+fgraminearum_newlabel	fgraminearum	3	4	0.6	0.0182648401826484	True
+fgraminearum_newlabel	fgraminearum	4	2	0.8	0.0091324200913242	True
+fgraminearum_newlabel	fgraminearum	5	10	1.0	0.045662100456621	True
+scerevisiae	scerevisiae	0	187	0.0	0.8904761904761904	False
+scerevisiae	scerevisiae	1	7	0.2	0.03333333333333333	False
+scerevisiae	scerevisiae	3	6	0.6	0.02857142857142857	True
+scerevisiae	scerevisiae	4	4	0.8	0.01904761904761905	True
+scerevisiae	scerevisiae	5	6	1.0	0.02857142857142857	True

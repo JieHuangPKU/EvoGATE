@@ -1,0 +1,7 @@
+Panel A illustrates the conceptual workflow linking yeast essential support, OrthoFinder orthogroups, canonical Fusarium PH-1 gene mapping, and the final retained positives.
+
+Panel B shows the tracked transfer subset as a compact Sankey with lightweight totals above each stage. Stage annotations summarize the yeast-support screen universe (n=13,152), the orthogroup universe (n=16,652), the bridge-resolved canonical gene universe (n=12,928), and the resolved transfer subset entering final display (n=1,363). Sankey ribbons show only the tracked transfer subset.
+
+Panel C lists representative real mapping examples derived from the project evidence tables.
+
+Positive_Final corresponds to the retained high-confidence positive transfer set. A minor positive class (n=7) was omitted from the Sankey display because of its very small size. All counts are derived from real project data and canonical bridge outputs.

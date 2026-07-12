@@ -1,0 +1,100 @@
+paths:
+  legacy_epgat_root: /home/jiehuang/software/fungi/EPGAT
+  benchmark_output_root: outputs/classical_baseline_benchmark
+  results_root: results/classical_baseline_benchmark
+  new_label_positive_path: data/processed/essential_gene/fgraminearum/newlabel/positive_genes.tsv
+  new_label_negative_path: data/processed/essential_gene/fgraminearum/newlabel/negative_genes.tsv
+
+runtime:
+  base_seed: 1029
+  string_threshold: 300
+  include_degree: false
+  test_fraction: 0.20
+  val_fraction: 0.04
+  device: cpu
+
+species:
+  human:
+    legacy_species_dir: human
+    label_regime: legacy
+  celegans:
+    legacy_species_dir: celegans
+    label_regime: legacy
+  scerevisiae:
+    legacy_species_dir: yeast
+    label_regime: legacy
+  fgraminearum:
+    legacy_species_dir: fgraminearum
+    label_regime: new_label
+
+methods:
+  MLP:
+    family: tabular
+    feature_settings:
+      - ORT
+      - EXP
+      - SUB
+      - ORT_EXP
+      - ORT_SUB
+      - EXP_SUB
+      - ORT_EXP_SUB
+    n_runs: 3
+    hidden_dim: 32
+    dropout: 0.2
+    learning_rate: 0.001
+    weight_decay: 0.0
+    epochs: 500
+    patience: 20
+  RF:
+    family: tabular
+    feature_settings:
+      - ORT_EXP_SUB
+    n_runs: 3
+    n_estimators: 500
+    class_weight: balanced
+    n_jobs: -1
+  SVM:
+    family: tabular
+    feature_settings:
+      - ORT_EXP_SUB
+    n_runs: 3
+    c: 1.0
+    kernel: rbf
+    gamma: scale
+    class_weight: balanced
+  NB:
+    family: tabular
+    feature_settings:
+      - ORT_EXP_SUB
+    n_runs: 3
+  N2V_MLP:
+    family: node2vec
+    feature_settings:
+      - N2V
+    n_runs: 3
+    embedding_dim: 64
+    walk_length: 32
+    context_size: 32
+    walks_per_node: 16
+    num_negative_samples: 1
+    epochs: 50
+    batch_size: 256
+    learning_rate: 0.005
+    mlp_hidden_dim: 32
+    mlp_dropout: 0.2
+    mlp_learning_rate: 0.001
+    mlp_weight_decay: 0.0
+    mlp_epochs: 500
+    mlp_patience: 20
+  DC:
+    family: heuristic
+    feature_settings:
+      - network
+    n_runs: 1
+    score_name: degree_centrality
+  CC:
+    family: heuristic
+    feature_settings:
+      - network
+    n_runs: 1
+    score_name: clustering_coefficient

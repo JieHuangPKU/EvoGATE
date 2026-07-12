@@ -1,0 +1,10 @@
+plot_section	condition	category	value	model	feature_setting	model_feature_setting
+total_edge_counts	STRING_300	total	362023	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+total_edge_counts	STRING_700	total	60548	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+total_edge_counts	eFG	total	123958	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_300 vs eFG	shared	16225	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_300 vs eFG	STRING_only	345798	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_300 vs eFG	eFG_only	107733	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_700 vs eFG	shared	6725	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_700 vs eFG	STRING_only	53823	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2
+pairwise_overlap	STRING_700 vs eFG	eFG_only	117233	GraphSAGE	ORT_EXP_SUB_ESM2	GraphSAGE + ORT_EXP_SUB_ESM2

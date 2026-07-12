@@ -1,0 +1,16 @@
+fusion_method	threshold_type	threshold	metric_optimized	metric_value	split_used
+Concat	fixed_0.5	0.5	fixed		test
+Concat	val_f1_opt	0.71	F1	0.593128382045348	validation
+Concat	val_mcc_opt	0.58	MCC	0.5536506592613262	validation
+Gated	fixed_0.5	0.5	fixed		test
+Gated	val_f1_opt	0.83	F1	0.5864867882765888	validation
+Gated	val_mcc_opt	0.83	MCC	0.5441419587357748	validation
+Gated+WBCE	fixed_0.5	0.5	fixed		test
+Gated+WBCE	val_f1_opt	0.61	F1	0.5865075708517753	validation
+Gated+WBCE	val_mcc_opt	0.61	MCC	0.5432048958249094	validation
+Residual gated	fixed_0.5	0.5	fixed		test
+Residual gated	val_f1_opt	0.76	F1	0.5722570910541467	validation
+Residual gated	val_mcc_opt	0.76	MCC	0.5295468877634183	validation
+Residual gated+WBCE	fixed_0.5	0.5	fixed		test
+Residual gated+WBCE	val_f1_opt	0.66	F1	0.5652709667590505	validation
+Residual gated+WBCE	val_mcc_opt	0.48	MCC	0.5249135884979946	validation

@@ -1,0 +1,4 @@
+metric	scale_factor	scaling_applied	max_abs_value	min_nonzero_abs_value	dynamic_range	max_std	scaling_reason
+centroid_distance	1.0	False	25.616313934326172	2.6864843368530273	9.535255271331065	0.8444143098438381	no scaling applied because the metric remains readable in raw units
+silhouette_score	1.0	False	0.1827879250049591	0.009185663424432278	19.89926220448866	0.030292773477016973	no scaling applied because the metric remains readable in raw units
+davies_bouldin_index	1.0	False	8.283249370460808	2.019780368515366	4.101064402635712	0.20714005406514738	no scaling applied because the metric remains readable in raw units

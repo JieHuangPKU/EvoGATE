@@ -1,0 +1,78 @@
+# Snakemake
+.snakemake/
+*.snakemake.log
+.snakemake.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data — large binary / cache artifacts
+data/*/kfold_splitted_data/
+data/*/results/
+data/*/predictions/
+data/*/raw/*.pt
+data/*/graphs_complete.flag
+data/processed/ESM2/**/*.pt
+data/processed/PPI/stringDB/*.gz
+data/processed/PPI/*.gz
+data/processed/PPI/*/string.csv
+data/processed/LC/*/subloc_audit.tsv
+data/processed/LC/COMPARTMENTS/
+data/processed/*/Download/
+data/processed/ESM2-bk/
+
+# Runtime caches
+.cache/
+
+# Per-run outputs (rebuildable, large)
+outputs/
+
+# Historical experiments (not current mainline, large files)
+results/label_rebuild_experiments/
+
+# Results — rebuildable binary plots (keep TSV/MD summaries)
+results/**/*.pdf
+results/**/*.png
+
+# Logs
+logs/
+*.log
+
+# Generated files
+workflow_*.pdf
+report.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp

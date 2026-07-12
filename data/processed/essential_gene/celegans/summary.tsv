@@ -1,0 +1,2 @@
+species	final_essential_count	final_nonessential_count	final_total_labeled	split_train_count	split_val_count	split_test_count	notes
+celegans	578	13104	13682	9577	2052	2053	Rebuilt from Bingo

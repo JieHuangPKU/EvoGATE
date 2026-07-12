@@ -1,0 +1,2 @@
+gene_list_raw_rows	source_gene_count_deduplicated	matched_count	unresolved_count	ambiguous_count	final_positive_old440_count	final_negative_old440_count	negative_overlap_removed_count	negative_pool_definition
+14145	14145	14145	0	0	439	10750	118	protocolized_newlabel_negative_pool

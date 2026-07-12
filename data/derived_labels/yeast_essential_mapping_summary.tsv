@@ -1,0 +1,13 @@
+metric	value
+sgd_raw_records	1011
+sgd_matched	940
+sgd_unmatched	71
+sgd_ambiguous	0
+sgd_skipped_null	0
+sgd_final_unique_gene_ids	940
+pombase_raw_records	1376
+pombase_matched	1367
+pombase_unmatched	9
+pombase_ambiguous	0
+pombase_skipped_null	0
+pombase_final_unique_gene_ids	1367

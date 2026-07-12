@@ -1,0 +1,9 @@
+# Final Dataset Recommendations
+
+| species      | recommended_version            | reason                                                                                 |
+|:-------------|:-------------------------------|:---------------------------------------------------------------------------------------|
+| celegans     | Bingo                          | ID namespace mismatch between EPGAT and Bingo (0 overlap). Defaulted to Bingo.         |
+| fgraminearum | Bingo + EPGAT (Bingo priority) | Merged both sources. Prioritized Bingo in case of conflict due to newer project state. |
+| human        | Bingo                          | ID namespace mismatch between EPGAT and Bingo (0 overlap). Defaulted to Bingo.         |
+| melanogaster | Bingo + EPGAT (Bingo priority) | Merged both sources. Prioritized Bingo in case of conflict due to newer project state. |
+| scerevisiae  | Bingo                          | ID namespace mismatch between EPGAT and Bingo (0 overlap). Defaulted to Bingo.         |

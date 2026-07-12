@@ -1,0 +1,9 @@
+protocol	species	confidence_tier	gene_count	tier_label	stable_seed_threshold	n_seeds
+fgraminearum_newlabel	fgraminearum	high_confidence_rescued	12	High confidence (4-5 seeds)	2	5
+fgraminearum_newlabel	fgraminearum	stable_rescued	11	Stable (2-3 seeds)	2	5
+fgraminearum_newlabel	fgraminearum	seed_specific_rescued	13	Seed-specific (1 seed)	2	5
+fgraminearum_newlabel	fgraminearum	not_rescued	183	Not rescued (0 seeds)	2	5
+scerevisiae	scerevisiae	high_confidence_rescued	10	High confidence (4-5 seeds)	2	5
+scerevisiae	scerevisiae	stable_rescued	6	Stable (2-3 seeds)	2	5
+scerevisiae	scerevisiae	seed_specific_rescued	7	Seed-specific (1 seed)	2	5
+scerevisiae	scerevisiae	not_rescued	187	Not rescued (0 seeds)	2	5

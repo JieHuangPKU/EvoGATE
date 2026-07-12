@@ -1,0 +1,9 @@
+species	protocol	transition	transition_display	gene_count	seed
+fgraminearum	fgraminearum_newlabel	FN_persistent	persistent_FN	38	1029
+fgraminearum	fgraminearum_newlabel	FN_to_TP_rescued	FN_to_TP_rescued	22	1029
+fgraminearum	fgraminearum_newlabel	FP_persistent	persistent_FP	123	1029
+fgraminearum	fgraminearum_newlabel	FP_to_TN_corrected	FP_to_TN_corrected	147	1029
+fgraminearum	fgraminearum_newlabel	TN_stable	TN_stable	1817	1029
+fgraminearum	fgraminearum_newlabel	TN_to_FP_regressed	TN_to_FP_regressed	87	1029
+fgraminearum	fgraminearum_newlabel	TP_stable	TP_stable	136	1029
+fgraminearum	fgraminearum_newlabel	TP_to_FN_regressed	TP_to_FN_regressed	23	1029

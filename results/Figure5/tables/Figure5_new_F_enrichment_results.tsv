@@ -1,0 +1,3 @@
+analysis	status	reason
+GO_enrichment	not_completed	No local F. graminearum GO annotation/background table was found in the inspected project paths.
+KEGG_enrichment	not_completed	No local F. graminearum KEGG annotation/background table was found in the inspected project paths.

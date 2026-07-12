@@ -1,0 +1,62 @@
+{
+  "target_order": [
+    "fgraminearum_newlabel",
+    "fgraminearum_oldlabel",
+    "scerevisiae",
+    "human",
+    "celegans",
+    "dmelanogaster"
+  ],
+  "target_positions": {
+    "fgraminearum_newlabel": 0,
+    "fgraminearum_oldlabel": 1,
+    "scerevisiae": 2,
+    "human": 3,
+    "celegans": 4,
+    "dmelanogaster": 5
+  },
+  "target_labels": {
+    "fgraminearum_newlabel": "F. graminearum",
+    "fgraminearum_oldlabel": "F. graminearum (old label)",
+    "scerevisiae": "S. cerevisiae",
+    "human": "H. sapiens",
+    "celegans": "C. elegans",
+    "dmelanogaster": "D. melanogaster"
+  },
+  "groups": [
+    {
+      "id": "grp_classical_models",
+      "label": "classical_models",
+      "models": ["GraphSAGE", "MLP", "RF", "SVM", "NB"],
+      "colors": {
+        "GraphSAGE": "#4C6A92",
+        "MLP": "#B56357",
+        "RF": "#8F6C8A",
+        "NB": "#336B87",
+        "SVM": "#D9B08C"
+      }
+    },
+    {
+      "id": "grp_network_methods",
+      "label": "network_methods",
+      "models": ["GraphSAGE", "N2V_MLP", "CC", "DC"],
+      "colors": {
+        "GraphSAGE": "#4C6A92",
+        "N2V_MLP": "#3B6C6D",
+        "CC": "#D8AE9C",
+        "DC": "#A2A290"
+      }
+    },
+    {
+      "id": "grp_gnn_models",
+      "label": "gnn_models",
+      "models": ["GraphSAGE", "GCN", "GAT", "GIN"],
+      "colors": {
+        "GraphSAGE": "#4C6A92",
+        "GCN": "#7A6F9B",
+        "GAT": "#C97C5D",
+        "GIN": "#5A8F6B"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Figure 1B reconstruction diagram" baseProfile="full" height="720" role="img" version="1.1" viewBox="0 0 1600 720" width="1600">
+  <defs>
+    <marker id="arrowHead" markerHeight="9" markerUnits="strokeWidth" markerWidth="12" orient="auto" refX="10" refY="4.5">
+      <path d="M0,0 L11,4.5 L0,9 z" fill="#B8C0CA"/>
+    </marker>
+  </defs>
+  <rect fill="#FFFFFF" height="720" width="1600" x="0" y="0"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start" x="72" y="64">(B)</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" text-anchor="start" x="132" y="64">Reconstructing essential-gene labels in a non-model fungal pathogen</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" x="132" y="96">Cross-species transfer and PHI-base evidence converge into a curated Fusarium positive set</text>
+  <rect fill="#FFF2E7" height="78" rx="12" ry="12" stroke="#D8A46E" stroke-width="1.4" width="218" x="990" y="180"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="1099.0" y="205">PHI-base lethal-</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="1099.0" y="223">supported genes</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="1099.0" y="234">pathogen-specific evidence</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-dasharray="5 6" stroke-linecap="round" stroke-width="1.5" x1="1099" x2="1099" y1="266" y2="329"/>
+  <rect fill="#E9F5F4" height="88" rx="12" ry="12" stroke="#78AFAE" stroke-width="1.4" width="176" x="90" y="345"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="178.0" y="370">Yeast essential</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="178.0" y="388">support</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="178.0" y="409">S. cerevisiae / S. pombe</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-linecap="round" stroke-width="1.5" x1="274" x2="298" y1="389" y2="389"/>
+  <rect fill="#E9F5F4" height="88" rx="12" ry="12" stroke="#78AFAE" stroke-width="1.4" width="176" x="306" y="345"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="394.0" y="370">Orthogroup-based</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="394.0" y="388">transfer</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="394.0" y="409">shared evolutionary context</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-linecap="round" stroke-width="1.5" x1="490" x2="514" y1="389" y2="389"/>
+  <rect fill="#E9F5F4" height="88" rx="12" ry="12" stroke="#78AFAE" stroke-width="1.4" width="176" x="522" y="345"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="610.0" y="370">Canonical Fusarium</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="610.0" y="388">gene mapping</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="610.0" y="409">resolved PH-1 gene IDs</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-linecap="round" stroke-width="1.5" x1="706" x2="730" y1="389" y2="389"/>
+  <rect fill="#E9F5F4" height="88" rx="12" ry="12" stroke="#78AFAE" stroke-width="1.4" width="176" x="738" y="345"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="826.0" y="370">High-confidence</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500" text-anchor="middle" x="826.0" y="388">transfer positives</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="826.0" y="409">retained transfer evidence</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-linecap="round" stroke-width="1.5" x1="922" x2="982" y1="389" y2="389"/>
+  <rect fill="#D7ECE8" height="104" rx="12" ry="12" stroke="#4F8F8A" stroke-width="1.4" width="218" x="990" y="337"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle" x="1099.0" y="362">Evidence</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle" x="1099.0" y="380">aggregation</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="1099.0" y="417">transfer + pathogen evidence</text>
+  <line marker-end="url(#arrowHead)" stroke="#8F9BA6" stroke-linecap="round" stroke-width="1.5" x1="1216" x2="1268" y1="389" y2="389"/>
+  <rect fill="#CBE5DF" height="124" rx="12" ry="12" stroke="#3F7F79" stroke-width="1.4" width="240" x="1276" y="327"/>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="650" text-anchor="middle" x="1396.0" y="352">Reconstructed essential</text>
+  <text dominant-baseline="middle" fill="#232323" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="650" text-anchor="middle" x="1396.0" y="370">gene set</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle" x="1396.0" y="427">final curated positives</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" text-anchor="middle" x="184" y="296">source evidence</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" text-anchor="middle" x="502" y="296">transfer / mapping</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" text-anchor="middle" x="1099" y="296">aggregation</text>
+  <text dominant-baseline="middle" fill="#7A858F" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" text-anchor="middle" x="1396" y="296">final output</text>
+  <text dominant-baseline="middle" fill="#5C6670" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" x="90" y="560">Cross-species essentiality evidence is filtered through orthogroups and canonical gene mapping, then merged with pathogen-specific lethal evidence.</text>
+  <text dominant-baseline="middle" fill="#5C6670" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" x="90" y="587">Goal: a compact reconstructed positive set for genome-wide essential-gene prediction in Fusarium graminearum.</text>
+</svg>

@@ -1,0 +1,17 @@
+protocol	species	feature_group	metric	metric_label	plot_value	plot_error	full_metric_mean	drop_metric_mean	n_seeds	value_transform	plot_value_definition
+fgraminearum_newlabel	fgraminearum	ESM2	delta_auprc	ΔAUPRC	0.19279276086971814	0.02700342100597772	0.546286867031029	0.3534941061613109	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	ESM2	delta_mcc	ΔMCC	0.20015974570183337	0.023900165630342942	0.500300246199287	0.30014050049745367	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	EXP	delta_auprc	ΔAUPRC	0.021089411824510185	0.0031840457786185264	0.546286867031029	0.5251974552065188	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	EXP	delta_mcc	ΔMCC	0.014700414635478175	0.0041944239108306115	0.500300246199287	0.48559983156380887	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	ORT	delta_auprc	ΔAUPRC	0.010957617736316339	0.00460700701164649	0.546286867031029	0.5353292492947126	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	ORT	delta_mcc	ΔMCC	0.009946781397652227	0.006795190526971923	0.500300246199287	0.4903534648016348	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	SUB	delta_auprc	ΔAUPRC	0.02602800290363294	0.004155039965949201	0.546286867031029	0.5202588641273961	5	none	full_metric_mean - masked_metric_mean
+fgraminearum_newlabel	fgraminearum	SUB	delta_mcc	ΔMCC	0.017162641173871708	0.007836908976891493	0.500300246199287	0.48313760502541536	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	ESM2	delta_auprc	ΔAUPRC	0.3387677136709579	0.006388244198676954	0.6712607738781087	0.33249306020715064	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	ESM2	delta_mcc	ΔMCC	0.317777058621491	0.04093083827683384	0.5067306066374287	0.18895354801593775	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	EXP	delta_auprc	ΔAUPRC	0.05933860917331411	0.00483454500175572	0.6712607738781087	0.6119221647047945	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	EXP	delta_mcc	ΔMCC	0.030283818251887595	0.014860641987819627	0.5067306066374287	0.47644678838554116	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	ORT	delta_auprc	ΔAUPRC	0.04086082316604556	0.0030703023466740723	0.6712607738781087	0.6303999507120631	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	ORT	delta_mcc	ΔMCC	0.02403571457996597	0.018043922433703292	0.5067306066374287	0.4826948920574628	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	SUB	delta_auprc	ΔAUPRC	0.08288669638737774	0.008142078930335896	0.6712607738781087	0.5883740774907309	5	none	full_metric_mean - masked_metric_mean
+scerevisiae	scerevisiae	SUB	delta_mcc	ΔMCC	0.06324249878446062	0.021458603080553577	0.5067306066374287	0.4434881078529681	5	none	full_metric_mean - masked_metric_mean

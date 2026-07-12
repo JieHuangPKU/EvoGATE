@@ -1,0 +1,14 @@
+metric	value
+ph1_genes_total	13152
+has_any_yeast_essential	1378
+support_class_scer_only	150
+support_class_spom_only	540
+support_class_both	688
+confidence_none	11774
+confidence_low	221
+confidence_medium	101
+confidence_high	1056
+is_strict_core_18	9752
+is_exact_single_copy_core_18	8003
+high_and_strict_core	997
+high_and_exact_single_copy_core	940

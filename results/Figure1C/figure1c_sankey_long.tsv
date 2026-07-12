@@ -1,0 +1,48 @@
+path_id	stage_pair	x	node	next_x	next_node	value	support_source	source_key	final_label_class	path_scope
+scer_only_positive	1	Support source	S. cerevisiae only	Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=117)"	117	S. cerevisiae only	scer_only	Essential (positive)	final_positive_primary_source
+scer_only_positive	2	Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=117)"	Mapped Fusarium genes	"S. cerevisiae only
+mapped Fusarium genes (n=117)"	117	S. cerevisiae only	scer_only	Essential (positive)	final_positive_primary_source
+scer_only_positive	3	Mapped Fusarium genes	"S. cerevisiae only
+mapped Fusarium genes (n=117)"	Final label class	Essential (positive)	117	S. cerevisiae only	scer_only	Essential (positive)	final_positive_primary_source
+scer_only_excluded_unresolved	1	Support source	S. cerevisiae only	Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=1)"	1	S. cerevisiae only	scer_only	Non-essential / excluded	high_confidence_unresolved_excluded
+scer_only_excluded_unresolved	2	Supported orthogroups	"S. cerevisiae only
+supported orthogroups (n=1)"	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	1	S. cerevisiae only	scer_only	Non-essential / excluded	high_confidence_unresolved_excluded
+scer_only_excluded_unresolved	3	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	Final label class	Non-essential / excluded	1	S. cerevisiae only	scer_only	Non-essential / excluded	high_confidence_unresolved_excluded
+spom_only_positive	1	Support source	S. pombe only	Supported orthogroups	"S. pombe only
+supported orthogroups (n=398)"	399	S. pombe only	spom_only	Essential (positive)	final_positive_primary_source
+spom_only_positive	2	Supported orthogroups	"S. pombe only
+supported orthogroups (n=398)"	Mapped Fusarium genes	"S. pombe only
+mapped Fusarium genes (n=399)"	399	S. pombe only	spom_only	Essential (positive)	final_positive_primary_source
+spom_only_positive	3	Mapped Fusarium genes	"S. pombe only
+mapped Fusarium genes (n=399)"	Final label class	Essential (positive)	399	S. pombe only	spom_only	Essential (positive)	final_positive_primary_source
+spom_only_excluded_unresolved	1	Support source	S. pombe only	Supported orthogroups	"S. pombe only
+supported orthogroups (n=3)"	3	S. pombe only	spom_only	Non-essential / excluded	high_confidence_unresolved_excluded
+spom_only_excluded_unresolved	2	Supported orthogroups	"S. pombe only
+supported orthogroups (n=3)"	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	3	S. pombe only	spom_only	Non-essential / excluded	high_confidence_unresolved_excluded
+spom_only_excluded_unresolved	3	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	Final label class	Non-essential / excluded	3	S. pombe only	spom_only	Non-essential / excluded	high_confidence_unresolved_excluded
+both_positive	1	Support source	Shared by both yeasts	Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=529)"	529	Shared by both yeasts	both	Essential (positive)	final_positive_primary_source
+both_positive	2	Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=529)"	Mapped Fusarium genes	"Shared by both yeasts
+mapped Fusarium genes (n=529)"	529	Shared by both yeasts	both	Essential (positive)	final_positive_primary_source
+both_positive	3	Mapped Fusarium genes	"Shared by both yeasts
+mapped Fusarium genes (n=529)"	Final label class	Essential (positive)	529	Shared by both yeasts	both	Essential (positive)	final_positive_primary_source
+both_excluded_unresolved	1	Support source	Shared by both yeasts	Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=4)"	4	Shared by both yeasts	both	Non-essential / excluded	high_confidence_unresolved_excluded
+both_excluded_unresolved	2	Supported orthogroups	"Shared by both yeasts
+supported orthogroups (n=4)"	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	4	Shared by both yeasts	both	Non-essential / excluded	high_confidence_unresolved_excluded
+both_excluded_unresolved	3	Mapped Fusarium genes	"Unresolved bridge IDs
+(not retained)"	Final label class	Non-essential / excluded	4	Shared by both yeasts	both	Non-essential / excluded	high_confidence_unresolved_excluded
+phi_positive	1	Support source	PHI-base essential/lethal	Supported orthogroups	"Direct PHI evidence
+(no yeast orthogroup) (n=52)"	52	PHI-base essential/lethal	phi	Essential (positive)	final_positive_primary_source
+phi_positive	2	Supported orthogroups	"Direct PHI evidence
+(no yeast orthogroup) (n=52)"	Mapped Fusarium genes	PHI-mapped Fusarium genes (n=52)	52	PHI-base essential/lethal	phi	Essential (positive)	final_positive_primary_source
+phi_positive	3	Mapped Fusarium genes	PHI-mapped Fusarium genes (n=52)	Final label class	Essential (positive)	52	PHI-base essential/lethal	phi	Essential (positive)	final_positive_primary_source

@@ -1,0 +1,11 @@
+protocol	species	feature_group	source_feature_block	start_col	end_col	n_features	masking_rule_used	attribution_status
+fgraminearum_newlabel	fgraminearum	ORT	orthologs	0	166	167	zero_out_selected_standardized_columns	attributed
+fgraminearum_newlabel	fgraminearum	EXP	expression	167	226	60	zero_out_selected_standardized_columns	attributed
+fgraminearum_newlabel	fgraminearum	SUB	sublocalization	227	238	12	zero_out_selected_standardized_columns	attributed
+fgraminearum_newlabel	fgraminearum	DEGREE_UNATTRIBUTED	degree	239	239	1	held_constant_not_masked	held_constant
+fgraminearum_newlabel	fgraminearum	ESM2	esm2	240	1519	1280	zero_out_selected_standardized_columns	attributed
+scerevisiae	scerevisiae	ORT	orthologs	0	61	62	zero_out_selected_standardized_columns	attributed
+scerevisiae	scerevisiae	EXP	expression	62	97	36	zero_out_selected_standardized_columns	attributed
+scerevisiae	scerevisiae	SUB	sublocalization	98	110	13	zero_out_selected_standardized_columns	attributed
+scerevisiae	scerevisiae	DEGREE_UNATTRIBUTED	degree	111	111	1	held_constant_not_masked	held_constant
+scerevisiae	scerevisiae	ESM2	esm2	112	1391	1280	zero_out_selected_standardized_columns	attributed

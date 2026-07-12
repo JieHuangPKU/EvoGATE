@@ -1,0 +1,14 @@
+location	gene_count	raw_term_count	example_raw_terms
+Cytoplasm	5488	41	Cytosolic large ribosomal subunit;Dendrite cytoplasm;Cytoplasmic ribonucleoprotein granule;Cytoplasmic microtubule bundle;Cytoplasmic region
+Nucleus	5399	129	Megasporocyte nucleus;Nucleolar chromatin;nucleolus-associated heterochromatin;Nuclear replisome;Nuclear origin of replication recognition complex
+Mitochondrion	4901	61	Mitochondrial ribonuclease P complex;Mitochondrial outer membrane translocase complex;Mitochondrion;Mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone);Mitochondrial small ribosomal subunit
+Cell membrane	4568	32	Lateral plasma membrane;Plasma membrane respiratory chain complex II;External side of plasma membrane;Plasma membrane of cell tip;Plasma membrane light-harvesting complex
+Cytoskeleton	3769	93	Meiotic spindle;Microtubule organizing center attachment site;Cortical actin cytoskeleton;Actin cap;Spindle pole body
+Ribosome	3746	17	Large ribosomal subunit;Small ribosomal subunit;Chloroplast ribosome;Plastid ribosome;Polysomal ribosome
+Endoplasmic reticulum	3642	30	Endoplasmic reticulum;Smooth endoplasmic reticulum;Longitudinal sarcoplasmic reticulum;Endoplasmic reticulum-Golgi intermediate compartment membrane;Endoplasmic reticulum Sec complex
+Secreted	3402	17	Extracellular vesicle;Neutrophil extracellular trap;Extracellular region;Extracellular ferritin complex;Extracellular exosome
+Vacuole	3351	25	Vacuole;Central vacuole;Vacuolar proton-transporting V-type ATPase, V1 domain;Lytic vacuole;Food vacuole
+Peroxisome	2728	5	Peroxisomal importomer complex;Peroxisomal matrix;Peroxisomal membrane;Peroxisome;Extrinsic component of intraperoxisomal membrane
+Golgi	2404	22	Golgi apparatus;Golgi transport complex;Golgi cisterna;trans-Golgi network transport vesicle;cis-Golgi network
+Endosome	1954	17	Recycling endosome membrane;Tubular endosome;Late endosome;Endosome;Apical recycling endosome
+Lysosome	1701	14	Phagolysosome;Autolysosome membrane;Phagolysosome membrane;Lysosomal glycocalyx;Primary lysosome

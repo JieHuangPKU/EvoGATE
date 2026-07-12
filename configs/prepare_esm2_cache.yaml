@@ -1,0 +1,18 @@
+esm2:
+  python_bin: /home/jiehuang/anaconda3/envs/progate/bin/python
+  cache_root: data/processed/ESM2
+  protein_fastas:
+    human: data/processed/essential_gene/human/protein.fa
+    celegans: data/processed/essential_gene/celegans/protein.fa
+    scerevisiae: data/processed/essential_gene/scerevisiae/protein.fa
+    melanogaster: data/processed/essential_gene/melanogaster/protein.fa
+    fgraminearum: data/processed/essential_gene/fgraminearum/protein.fa
+  backend: esm2
+  model_name_or_path: /home/jiehuang/software/AI/ESM/esm2_t33_650M_UR50D
+  local_files_only: true
+  cache_dir: /home/jiehuang/.cache/huggingface/hub
+  max_length: 1024
+  batch_size: 4
+  device: cuda
+  mock_embedding_dim: 320
+  pooling: mean

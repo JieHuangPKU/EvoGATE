@@ -1,0 +1,2 @@
+species	final_essential_count	final_nonessential_count	final_total_labeled	split_train_count	split_val_count	split_test_count	notes
+melanogaster	402	6138	6540	4578	981	981	Rebuilt from Bingo + EPGAT (Bingo priority)

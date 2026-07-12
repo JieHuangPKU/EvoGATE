@@ -1,0 +1,630 @@
+species_key	comparison_level	focal_taxid	focal_scientific_name	matched_taxid	matched_scientific_name	matched_phylum	matched_class	matched_order	matched_family	matched_genus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1033177	Aspergillus kawachii (strain NBRC 4308)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1064592	Naumovozyma castellii (strain ATCC 76901 / BCRC 22586 / CBS 4309 / NBRC 1992 / NRRL Y-12630)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Naumovozyma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1071380	Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Tetrapisispora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kazachstania
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1072389	Marssonina brunnea f. sp. multigermtubi (strain MB_m1)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Drepanopezizaceae	g__Drepanopeziza
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1076872	Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Torulaspora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1104152	Glarea lozoyensis (strain ATCC 74030 / MF5533)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Helotiaceae	g__Glarea
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1126212	Macrophomina phaseolina (strain MS6)	p__Ascomycota	c__Dothideomycetes	o__Botryosphaeriales	f__Botryosphaeriaceae	g__Macrophomina
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1170229	Penicillium digitatum (strain PHI26 / CECT 20796)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Penicillium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Wickerhamomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1209962	Pneumocystis jirovecii (strain SE8)	p__Ascomycota	c__Pneumocystomycetes	o__Pneumocystales	f__Pneumocystaceae	g__Pneumocystis
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1213859	Colletotrichum fructicola (strain Nara gc5)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Glomerellaceae	g__Colletotrichum
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Pyriculariaceae	g__Pyricularia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kluyveromyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Debaryomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284593	Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Nakaseomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	294746	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Meyerozyma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Chaetomium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	306902	Clavispora lusitaniae (strain ATCC 42720)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Metschnikowiaceae	g__Clavispora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	322104	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Scheffersomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	336722	Zymoseptoria tritici (strain CBS 115943 / IPO323)	p__Ascomycota	c__Dothideomycetes	o__Mycosphaerellales	f__Mycosphaerellaceae	g__Zymoseptoria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	336963	Uncinocarpus reesii (strain UAMH 1704)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Onygenaceae	g__Uncinocarpus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Lodderomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	426418	Pyrenophora tritici-repentis (strain Pt-1C-BFP)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Pleosporaceae	g__Pyrenophora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Vanderwaltozyma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	441959	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Trichocomaceae	g__Talaromyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	502780	Paracoccidioides brasiliensis (strain Pb18)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__unclassified Onygenales family	g__Paracoccidioides
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	498257	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Plectosphaerellaceae	g__Verticillium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	535722	Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Arthrodermataceae	g__Nannizzia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Lachancea
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Millerozyma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	559305	Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Arthrodermataceae	g__Trichophyton
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Zygosaccharomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	573729	Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Thermothelomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	619300	Spathaspora passalidarum (strain NRRL Y-27907 / 11-Y1)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Spathaspora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	644223	Komagataella phaffii (strain GS115 / ATCC 20864)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Komagataella
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	644352	Gaeumannomyces tritici (strain R3-111a-1)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Magnaporthaceae	g__Gaeumannomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	655819	Beauveria bassiana (strain ARSEF 2860)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Beauveria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	655827	Metarhizium acridum (strain CQMa 102)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Clavicipitaceae	g__Metarhizium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	655863	Grosmannia clavigera (strain kw1407 / UAMH 11150)	p__Ascomycota	c__Sordariomycetes	o__Ophiostomatales	f__Ophiostomataceae	g__Leptographium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	658429	Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21)	p__Ascomycota	c__Leotiomycetes	o__unclassified Leotiomycetes order	f__Pseudeurotiaceae	g__Pseudogymnoascus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	p__Ascomycota	c__Orbiliomycetes	o__Orbiliales	f__Orbiliaceae	g__Orbilia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	771870	Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Sordaria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	858893	Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656)	p__Ascomycota	c__Eurotiomycetes	o__Chaetothyriales	f__Herpotrichiellaceae	g__Exophiala
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	983644	Cordyceps militaris (strain CM01)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Cordyceps
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Leptosphaeriaceae	g__Plenodomus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	999810	Botryotinia fuckeliana (strain T4)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Sclerotiniaceae	g__Botrytis
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Candida
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	246410	Coccidioides immitis (strain RS)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Onygenaceae	g__Coccidioides
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284591	Yarrowia lipolytica (strain CLIB 122 / E 150)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Dipodascaceae	g__Yarrowia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	p__Ascomycota	c__Schizosaccharomycetes	o__Schizosaccharomycetales	f__Schizosaccharomycetaceae	g__Schizosaccharomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Phaeosphaeriaceae	g__Parastagonospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	330879	Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Neurospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	447093	Ajellomyces capsulatus (strain G186AR / H82 / ATCC MYA-2454 / RMSCC 2432)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Ajellomycetaceae	g__Histoplasma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	656061	Tuber melanosporum (strain Mel28)	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Tuberaceae	g__Tuber
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	665079	Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Sclerotiniaceae	g__Sclerotinia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	98403	Drechmeria coniospora	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Ophiocordycipitaceae	g__Drechmeria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1043005	Aureobasidium subglaciale (strain EXF-2481)	p__Ascomycota	c__Dothideomycetes	o__Dothideales	f__Saccotheciaceae	g__Aureobasidium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1001833	Hypoxylon sp. CI-4A	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Hypoxylaceae	g__Hypoxylon
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	857342	Amorphotheca resinae ATCC 22711	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Amorphothecaceae	g__Amorphotheca
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	341454	Ascodesmis nigricans	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Ascodesmidaceae	g__Ascodesmis
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1157616	Hortaea werneckii EXF-2000	p__Ascomycota	c__Dothideomycetes	o__Mycosphaerellales	f__Teratosphaeriaceae	g__Hortaea
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	574789	Mytilinidion resinicola	p__Ascomycota	c__Dothideomycetes	o__Mytilinidiales	f__Mytilinidiaceae	g__Mytilinidion
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	253628	Verruconis gallopava	p__Ascomycota	c__Dothideomycetes	o__Venturiales	f__Sympoventuriaceae	g__Verruconis
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	158607	Diaporthe helianthi	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Diaporthaceae	g__Diaporthe
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	765867	Pyrenochaeta sp. DS3sAY3a	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Cucurbitariaceae	g__Pyrenochaeta
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1392247	Morchella conica CCBAS932	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Morchellaceae	g__Morchella
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1093900	Thyridium curvatum	p__Ascomycota	c__Sordariomycetes	o__unclassified Sordariomycetes order	f__Thyridiaceae	g__Thyridium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1230097	Cytospora leucostoma	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Valsaceae	g__Cytospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	105696	Epicoccum nigrum	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Didymellaceae	g__Epicoccum
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1328760	Xylona heveae (strain CBS 132557 / TC161)	p__Ascomycota	c__Xylonomycetes	o__Xylonales	f__Xylonaceae	g__Xylona
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	196109	Microdochium bolleyi	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Microdochiaceae	g__Microdochium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	913774	Oidiodendron maius Zn	p__Ascomycota	c__Leotiomycetes	o__unclassified Leotiomycetes order	f__Myxotrichaceae	g__Oidiodendron
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	13370	Brettanomyces naardenensis	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Pichiaceae	g__Brettanomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	149040	Mollisia scopiformis	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Mollisiaceae	g__Mollisia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1051890	Terfezia boudieri ATCC MYA-4762	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Pezizaceae	g__Terfezia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1095630	Hyaloscypha bicolor E	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Hyaloscyphaceae	g__Hyaloscypha
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1356009	Byssochlamys spectabilis (strain No. 5 / NBRC 109023)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Thermoascaceae	g__Paecilomyces
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	41688	Lomentospora prolificans	p__Ascomycota	c__Sordariomycetes	o__Microascales	f__Microascaceae	g__Lomentospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	914237	Rhynchosporium commune	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Ploettnerulaceae	g__Rhynchosporium
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	2070412	Rutstroemia sp. NJR-2017a WRK4	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Rutstroemiaceae	g__Rutstroemia
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1220924	Cyphellophora europaea CBS 101466	p__Ascomycota	c__Eurotiomycetes	o__Chaetothyriales	f__Cyphellophoraceae	g__Cyphellophora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1408157	Coniochaeta ligniaria NRRL 30616	p__Ascomycota	c__Sordariomycetes	o__Coniochaetales	f__Coniochaetaceae	g__Coniochaeta
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1460663	Paraphaeosphaeria sporulosa	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Didymosphaeriaceae	g__Paraphaeosphaeria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	323545	Xylaria multiplex	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Xylariaceae	g__Xylaria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	546991	Blumeria graminis f. sp. hordei (strain DH14)	p__Ascomycota	c__Leotiomycetes	o__Erysiphales	f__Erysiphaceae	g__Blumeria
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1250544	Sphaerosporella brunnea	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Pyronemataceae	g__Sphaerosporella
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1229662	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Sporocadaceae	g__Pestalotiopsis
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	765868	Stagonospora sp. SRC1lsM3a	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Massarinaceae	g__Stagonospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	56408	Hanseniaspora osmophila	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycodaceae	g__Hanseniaspora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1344418	Ascoidea rubescens DSM 1968	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Ascoideaceae	g__Ascoidea
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Stachybotryaceae	g__Stachybotrys
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	515849	Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Podosporaceae	g__Podospora
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	2082308	Sphaceloma murrayae	p__Ascomycota	c__Dothideomycetes	o__Myriangiales	f__Elsinoaceae	g__Sphaceloma
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1507870	Rachicladosporium antarcticum	p__Ascomycota	c__Dothideomycetes	o__Cladosporiales	f__Cladosporiaceae	g__Cryoendolithus
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	503106	Marssonina coronariae	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Dermateaceae	g__Marssonina
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	1141098	Pseudomassariella vexata	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Pseudomassariaceae	g__Pseudomassariella
+fgraminearum	phylum	229533	Fusarium graminearum PH-1	2025994	Coniella lustricola	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Schizoparmaceae	g__Coniella
+fgraminearum	class	229533	Fusarium graminearum PH-1	1213859	Colletotrichum fructicola (strain Nara gc5)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Glomerellaceae	g__Colletotrichum
+fgraminearum	class	229533	Fusarium graminearum PH-1	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Pyriculariaceae	g__Pyricularia
+fgraminearum	class	229533	Fusarium graminearum PH-1	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Chaetomium
+fgraminearum	class	229533	Fusarium graminearum PH-1	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma
+fgraminearum	class	229533	Fusarium graminearum PH-1	498257	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Plectosphaerellaceae	g__Verticillium
+fgraminearum	class	229533	Fusarium graminearum PH-1	573729	Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Thermothelomyces
+fgraminearum	class	229533	Fusarium graminearum PH-1	644352	Gaeumannomyces tritici (strain R3-111a-1)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Magnaporthaceae	g__Gaeumannomyces
+fgraminearum	class	229533	Fusarium graminearum PH-1	655819	Beauveria bassiana (strain ARSEF 2860)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Beauveria
+fgraminearum	class	229533	Fusarium graminearum PH-1	655827	Metarhizium acridum (strain CQMa 102)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Clavicipitaceae	g__Metarhizium
+fgraminearum	class	229533	Fusarium graminearum PH-1	655863	Grosmannia clavigera (strain kw1407 / UAMH 11150)	p__Ascomycota	c__Sordariomycetes	o__Ophiostomatales	f__Ophiostomataceae	g__Leptographium
+fgraminearum	class	229533	Fusarium graminearum PH-1	771870	Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Sordaria
+fgraminearum	class	229533	Fusarium graminearum PH-1	983644	Cordyceps militaris (strain CM01)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Cordyceps
+fgraminearum	class	229533	Fusarium graminearum PH-1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	class	229533	Fusarium graminearum PH-1	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Neurospora
+fgraminearum	class	229533	Fusarium graminearum PH-1	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	class	229533	Fusarium graminearum PH-1	98403	Drechmeria coniospora	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Ophiocordycipitaceae	g__Drechmeria
+fgraminearum	class	229533	Fusarium graminearum PH-1	1001833	Hypoxylon sp. CI-4A	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Hypoxylaceae	g__Hypoxylon
+fgraminearum	class	229533	Fusarium graminearum PH-1	158607	Diaporthe helianthi	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Diaporthaceae	g__Diaporthe
+fgraminearum	class	229533	Fusarium graminearum PH-1	1093900	Thyridium curvatum	p__Ascomycota	c__Sordariomycetes	o__unclassified Sordariomycetes order	f__Thyridiaceae	g__Thyridium
+fgraminearum	class	229533	Fusarium graminearum PH-1	1230097	Cytospora leucostoma	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Valsaceae	g__Cytospora
+fgraminearum	class	229533	Fusarium graminearum PH-1	196109	Microdochium bolleyi	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Microdochiaceae	g__Microdochium
+fgraminearum	class	229533	Fusarium graminearum PH-1	41688	Lomentospora prolificans	p__Ascomycota	c__Sordariomycetes	o__Microascales	f__Microascaceae	g__Lomentospora
+fgraminearum	class	229533	Fusarium graminearum PH-1	1408157	Coniochaeta ligniaria NRRL 30616	p__Ascomycota	c__Sordariomycetes	o__Coniochaetales	f__Coniochaetaceae	g__Coniochaeta
+fgraminearum	class	229533	Fusarium graminearum PH-1	323545	Xylaria multiplex	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Xylariaceae	g__Xylaria
+fgraminearum	class	229533	Fusarium graminearum PH-1	1229662	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Sporocadaceae	g__Pestalotiopsis
+fgraminearum	class	229533	Fusarium graminearum PH-1	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Stachybotryaceae	g__Stachybotrys
+fgraminearum	class	229533	Fusarium graminearum PH-1	515849	Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Podosporaceae	g__Podospora
+fgraminearum	class	229533	Fusarium graminearum PH-1	1141098	Pseudomassariella vexata	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Pseudomassariaceae	g__Pseudomassariella
+fgraminearum	class	229533	Fusarium graminearum PH-1	2025994	Coniella lustricola	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Schizoparmaceae	g__Coniella
+fgraminearum	order	229533	Fusarium graminearum PH-1	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma
+fgraminearum	order	229533	Fusarium graminearum PH-1	655819	Beauveria bassiana (strain ARSEF 2860)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Beauveria
+fgraminearum	order	229533	Fusarium graminearum PH-1	655827	Metarhizium acridum (strain CQMa 102)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Clavicipitaceae	g__Metarhizium
+fgraminearum	order	229533	Fusarium graminearum PH-1	983644	Cordyceps militaris (strain CM01)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Cordyceps
+fgraminearum	order	229533	Fusarium graminearum PH-1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	order	229533	Fusarium graminearum PH-1	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	order	229533	Fusarium graminearum PH-1	98403	Drechmeria coniospora	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Ophiocordycipitaceae	g__Drechmeria
+fgraminearum	order	229533	Fusarium graminearum PH-1	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Stachybotryaceae	g__Stachybotrys
+fgraminearum	family	229533	Fusarium graminearum PH-1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	family	229533	Fusarium graminearum PH-1	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	genus	229533	Fusarium graminearum PH-1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+fgraminearum	genus	229533	Fusarium graminearum PH-1	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1033177	Aspergillus kawachii (strain NBRC 4308)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1064592	Naumovozyma castellii (strain ATCC 76901 / BCRC 22586 / CBS 4309 / NBRC 1992 / NRRL Y-12630)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Naumovozyma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1071380	Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Tetrapisispora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kazachstania
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1072389	Marssonina brunnea f. sp. multigermtubi (strain MB_m1)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Drepanopezizaceae	g__Drepanopeziza
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1076872	Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Torulaspora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1104152	Glarea lozoyensis (strain ATCC 74030 / MF5533)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Helotiaceae	g__Glarea
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1126212	Macrophomina phaseolina (strain MS6)	p__Ascomycota	c__Dothideomycetes	o__Botryosphaeriales	f__Botryosphaeriaceae	g__Macrophomina
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1170229	Penicillium digitatum (strain PHI26 / CECT 20796)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Penicillium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Wickerhamomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1209962	Pneumocystis jirovecii (strain SE8)	p__Ascomycota	c__Pneumocystomycetes	o__Pneumocystales	f__Pneumocystaceae	g__Pneumocystis
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1213859	Colletotrichum fructicola (strain Nara gc5)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Glomerellaceae	g__Colletotrichum
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Pyriculariaceae	g__Pyricularia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kluyveromyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Debaryomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284593	Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Nakaseomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	294746	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Meyerozyma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Chaetomium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	306902	Clavispora lusitaniae (strain ATCC 42720)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Metschnikowiaceae	g__Clavispora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	322104	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Scheffersomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	336722	Zymoseptoria tritici (strain CBS 115943 / IPO323)	p__Ascomycota	c__Dothideomycetes	o__Mycosphaerellales	f__Mycosphaerellaceae	g__Zymoseptoria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	336963	Uncinocarpus reesii (strain UAMH 1704)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Onygenaceae	g__Uncinocarpus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Lodderomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	426418	Pyrenophora tritici-repentis (strain Pt-1C-BFP)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Pleosporaceae	g__Pyrenophora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Vanderwaltozyma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	441959	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Trichocomaceae	g__Talaromyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	502780	Paracoccidioides brasiliensis (strain Pb18)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__unclassified Onygenales family	g__Paracoccidioides
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	498257	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	p__Ascomycota	c__Sordariomycetes	o__Glomerellales	f__Plectosphaerellaceae	g__Verticillium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	535722	Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Arthrodermataceae	g__Nannizzia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Lachancea
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Millerozyma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	559305	Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Arthrodermataceae	g__Trichophyton
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Zygosaccharomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	573729	Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Thermothelomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	619300	Spathaspora passalidarum (strain NRRL Y-27907 / 11-Y1)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Spathaspora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	644223	Komagataella phaffii (strain GS115 / ATCC 20864)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Komagataella
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	644352	Gaeumannomyces tritici (strain R3-111a-1)	p__Ascomycota	c__Sordariomycetes	o__Magnaporthales	f__Magnaporthaceae	g__Gaeumannomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	655819	Beauveria bassiana (strain ARSEF 2860)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Beauveria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	655827	Metarhizium acridum (strain CQMa 102)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Clavicipitaceae	g__Metarhizium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	655863	Grosmannia clavigera (strain kw1407 / UAMH 11150)	p__Ascomycota	c__Sordariomycetes	o__Ophiostomatales	f__Ophiostomataceae	g__Leptographium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	658429	Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21)	p__Ascomycota	c__Leotiomycetes	o__unclassified Leotiomycetes order	f__Pseudeurotiaceae	g__Pseudogymnoascus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	p__Ascomycota	c__Orbiliomycetes	o__Orbiliales	f__Orbiliaceae	g__Orbilia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	771870	Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Sordaria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	858893	Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656)	p__Ascomycota	c__Eurotiomycetes	o__Chaetothyriales	f__Herpotrichiellaceae	g__Exophiala
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	983644	Cordyceps militaris (strain CM01)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Cordycipitaceae	g__Cordyceps
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Leptosphaeriaceae	g__Plenodomus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	999810	Botryotinia fuckeliana (strain T4)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Sclerotiniaceae	g__Botrytis
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Candida
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	246410	Coccidioides immitis (strain RS)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Onygenaceae	g__Coccidioides
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284591	Yarrowia lipolytica (strain CLIB 122 / E 150)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Dipodascaceae	g__Yarrowia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	p__Ascomycota	c__Schizosaccharomycetes	o__Schizosaccharomycetales	f__Schizosaccharomycetaceae	g__Schizosaccharomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Phaeosphaeriaceae	g__Parastagonospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	330879	Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Aspergillus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Sordariaceae	g__Neurospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	447093	Ajellomyces capsulatus (strain G186AR / H82 / ATCC MYA-2454 / RMSCC 2432)	p__Ascomycota	c__Eurotiomycetes	o__Onygenales	f__Ajellomycetaceae	g__Histoplasma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	656061	Tuber melanosporum (strain Mel28)	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Tuberaceae	g__Tuber
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	665079	Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Sclerotiniaceae	g__Sclerotinia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	98403	Drechmeria coniospora	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Ophiocordycipitaceae	g__Drechmeria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1043005	Aureobasidium subglaciale (strain EXF-2481)	p__Ascomycota	c__Dothideomycetes	o__Dothideales	f__Saccotheciaceae	g__Aureobasidium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1001833	Hypoxylon sp. CI-4A	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Hypoxylaceae	g__Hypoxylon
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	857342	Amorphotheca resinae ATCC 22711	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Amorphothecaceae	g__Amorphotheca
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	341454	Ascodesmis nigricans	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Ascodesmidaceae	g__Ascodesmis
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1157616	Hortaea werneckii EXF-2000	p__Ascomycota	c__Dothideomycetes	o__Mycosphaerellales	f__Teratosphaeriaceae	g__Hortaea
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	574789	Mytilinidion resinicola	p__Ascomycota	c__Dothideomycetes	o__Mytilinidiales	f__Mytilinidiaceae	g__Mytilinidion
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	253628	Verruconis gallopava	p__Ascomycota	c__Dothideomycetes	o__Venturiales	f__Sympoventuriaceae	g__Verruconis
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	158607	Diaporthe helianthi	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Diaporthaceae	g__Diaporthe
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	765867	Pyrenochaeta sp. DS3sAY3a	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Cucurbitariaceae	g__Pyrenochaeta
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1392247	Morchella conica CCBAS932	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Morchellaceae	g__Morchella
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1093900	Thyridium curvatum	p__Ascomycota	c__Sordariomycetes	o__unclassified Sordariomycetes order	f__Thyridiaceae	g__Thyridium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1230097	Cytospora leucostoma	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Valsaceae	g__Cytospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	105696	Epicoccum nigrum	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Didymellaceae	g__Epicoccum
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1328760	Xylona heveae (strain CBS 132557 / TC161)	p__Ascomycota	c__Xylonomycetes	o__Xylonales	f__Xylonaceae	g__Xylona
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	196109	Microdochium bolleyi	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Microdochiaceae	g__Microdochium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	913774	Oidiodendron maius Zn	p__Ascomycota	c__Leotiomycetes	o__unclassified Leotiomycetes order	f__Myxotrichaceae	g__Oidiodendron
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	13370	Brettanomyces naardenensis	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Pichiaceae	g__Brettanomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	149040	Mollisia scopiformis	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Mollisiaceae	g__Mollisia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1051890	Terfezia boudieri ATCC MYA-4762	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Pezizaceae	g__Terfezia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1095630	Hyaloscypha bicolor E	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Hyaloscyphaceae	g__Hyaloscypha
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1356009	Byssochlamys spectabilis (strain No. 5 / NBRC 109023)	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Thermoascaceae	g__Paecilomyces
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	41688	Lomentospora prolificans	p__Ascomycota	c__Sordariomycetes	o__Microascales	f__Microascaceae	g__Lomentospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	914237	Rhynchosporium commune	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Ploettnerulaceae	g__Rhynchosporium
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	2070412	Rutstroemia sp. NJR-2017a WRK4	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Rutstroemiaceae	g__Rutstroemia
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1220924	Cyphellophora europaea CBS 101466	p__Ascomycota	c__Eurotiomycetes	o__Chaetothyriales	f__Cyphellophoraceae	g__Cyphellophora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1408157	Coniochaeta ligniaria NRRL 30616	p__Ascomycota	c__Sordariomycetes	o__Coniochaetales	f__Coniochaetaceae	g__Coniochaeta
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1460663	Paraphaeosphaeria sporulosa	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Didymosphaeriaceae	g__Paraphaeosphaeria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	323545	Xylaria multiplex	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Xylariaceae	g__Xylaria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	546991	Blumeria graminis f. sp. hordei (strain DH14)	p__Ascomycota	c__Leotiomycetes	o__Erysiphales	f__Erysiphaceae	g__Blumeria
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1250544	Sphaerosporella brunnea	p__Ascomycota	c__Pezizomycetes	o__Pezizales	f__Pyronemataceae	g__Sphaerosporella
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1229662	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Sporocadaceae	g__Pestalotiopsis
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	765868	Stagonospora sp. SRC1lsM3a	p__Ascomycota	c__Dothideomycetes	o__Pleosporales	f__Massarinaceae	g__Stagonospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	56408	Hanseniaspora osmophila	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycodaceae	g__Hanseniaspora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1344418	Ascoidea rubescens DSM 1968	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Ascoideaceae	g__Ascoidea
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Stachybotryaceae	g__Stachybotrys
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	515849	Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Podosporaceae	g__Podospora
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	2082308	Sphaceloma murrayae	p__Ascomycota	c__Dothideomycetes	o__Myriangiales	f__Elsinoaceae	g__Sphaceloma
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1507870	Rachicladosporium antarcticum	p__Ascomycota	c__Dothideomycetes	o__Cladosporiales	f__Cladosporiaceae	g__Cryoendolithus
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	503106	Marssonina coronariae	p__Ascomycota	c__Leotiomycetes	o__Helotiales	f__Dermateaceae	g__Marssonina
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	1141098	Pseudomassariella vexata	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Pseudomassariaceae	g__Pseudomassariella
+scerevisiae	phylum	4932	Saccharomyces cerevisiae	2025994	Coniella lustricola	p__Ascomycota	c__Sordariomycetes	o__Diaporthales	f__Schizoparmaceae	g__Coniella
+scerevisiae	class	4932	Saccharomyces cerevisiae	1064592	Naumovozyma castellii (strain ATCC 76901 / BCRC 22586 / CBS 4309 / NBRC 1992 / NRRL Y-12630)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Naumovozyma
+scerevisiae	class	4932	Saccharomyces cerevisiae	1071380	Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Tetrapisispora
+scerevisiae	class	4932	Saccharomyces cerevisiae	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kazachstania
+scerevisiae	class	4932	Saccharomyces cerevisiae	1076872	Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Torulaspora
+scerevisiae	class	4932	Saccharomyces cerevisiae	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Wickerhamomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kluyveromyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Debaryomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	284593	Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Nakaseomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	294746	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Meyerozyma
+scerevisiae	class	4932	Saccharomyces cerevisiae	306902	Clavispora lusitaniae (strain ATCC 42720)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Metschnikowiaceae	g__Clavispora
+scerevisiae	class	4932	Saccharomyces cerevisiae	322104	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Scheffersomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Lodderomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Vanderwaltozyma
+scerevisiae	class	4932	Saccharomyces cerevisiae	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Lachancea
+scerevisiae	class	4932	Saccharomyces cerevisiae	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Millerozyma
+scerevisiae	class	4932	Saccharomyces cerevisiae	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Zygosaccharomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	619300	Spathaspora passalidarum (strain NRRL Y-27907 / 11-Y1)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Spathaspora
+scerevisiae	class	4932	Saccharomyces cerevisiae	644223	Komagataella phaffii (strain GS115 / ATCC 20864)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Komagataella
+scerevisiae	class	4932	Saccharomyces cerevisiae	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	class	4932	Saccharomyces cerevisiae	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Candida
+scerevisiae	class	4932	Saccharomyces cerevisiae	284591	Yarrowia lipolytica (strain CLIB 122 / E 150)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Dipodascaceae	g__Yarrowia
+scerevisiae	class	4932	Saccharomyces cerevisiae	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	class	4932	Saccharomyces cerevisiae	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	13370	Brettanomyces naardenensis	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Pichiaceae	g__Brettanomyces
+scerevisiae	class	4932	Saccharomyces cerevisiae	56408	Hanseniaspora osmophila	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycodaceae	g__Hanseniaspora
+scerevisiae	class	4932	Saccharomyces cerevisiae	1344418	Ascoidea rubescens DSM 1968	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Ascoideaceae	g__Ascoidea
+scerevisiae	order	4932	Saccharomyces cerevisiae	1064592	Naumovozyma castellii (strain ATCC 76901 / BCRC 22586 / CBS 4309 / NBRC 1992 / NRRL Y-12630)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Naumovozyma
+scerevisiae	order	4932	Saccharomyces cerevisiae	1071380	Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Tetrapisispora
+scerevisiae	order	4932	Saccharomyces cerevisiae	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kazachstania
+scerevisiae	order	4932	Saccharomyces cerevisiae	1076872	Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Torulaspora
+scerevisiae	order	4932	Saccharomyces cerevisiae	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Wickerhamomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kluyveromyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Debaryomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	284593	Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Nakaseomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	294746	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Meyerozyma
+scerevisiae	order	4932	Saccharomyces cerevisiae	306902	Clavispora lusitaniae (strain ATCC 42720)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Metschnikowiaceae	g__Clavispora
+scerevisiae	order	4932	Saccharomyces cerevisiae	322104	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Scheffersomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Lodderomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Vanderwaltozyma
+scerevisiae	order	4932	Saccharomyces cerevisiae	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Lachancea
+scerevisiae	order	4932	Saccharomyces cerevisiae	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Millerozyma
+scerevisiae	order	4932	Saccharomyces cerevisiae	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Zygosaccharomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	619300	Spathaspora passalidarum (strain NRRL Y-27907 / 11-Y1)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Spathaspora
+scerevisiae	order	4932	Saccharomyces cerevisiae	644223	Komagataella phaffii (strain GS115 / ATCC 20864)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Phaffomycetaceae	g__Komagataella
+scerevisiae	order	4932	Saccharomyces cerevisiae	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	order	4932	Saccharomyces cerevisiae	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Debaryomycetaceae	g__Candida
+scerevisiae	order	4932	Saccharomyces cerevisiae	284591	Yarrowia lipolytica (strain CLIB 122 / E 150)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Dipodascaceae	g__Yarrowia
+scerevisiae	order	4932	Saccharomyces cerevisiae	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	order	4932	Saccharomyces cerevisiae	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	13370	Brettanomyces naardenensis	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Pichiaceae	g__Brettanomyces
+scerevisiae	order	4932	Saccharomyces cerevisiae	56408	Hanseniaspora osmophila	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycodaceae	g__Hanseniaspora
+scerevisiae	order	4932	Saccharomyces cerevisiae	1344418	Ascoidea rubescens DSM 1968	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Ascoideaceae	g__Ascoidea
+scerevisiae	family	4932	Saccharomyces cerevisiae	1064592	Naumovozyma castellii (strain ATCC 76901 / BCRC 22586 / CBS 4309 / NBRC 1992 / NRRL Y-12630)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Naumovozyma
+scerevisiae	family	4932	Saccharomyces cerevisiae	1071380	Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Tetrapisispora
+scerevisiae	family	4932	Saccharomyces cerevisiae	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kazachstania
+scerevisiae	family	4932	Saccharomyces cerevisiae	1076872	Torulaspora delbrueckii (strain ATCC 10662 / CBS 1146 / NBRC 0425 / NCYC 2629 / NRRL Y-866)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Torulaspora
+scerevisiae	family	4932	Saccharomyces cerevisiae	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Kluyveromyces
+scerevisiae	family	4932	Saccharomyces cerevisiae	284593	Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Nakaseomyces
+scerevisiae	family	4932	Saccharomyces cerevisiae	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Vanderwaltozyma
+scerevisiae	family	4932	Saccharomyces cerevisiae	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Lachancea
+scerevisiae	family	4932	Saccharomyces cerevisiae	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Zygosaccharomyces
+scerevisiae	family	4932	Saccharomyces cerevisiae	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	family	4932	Saccharomyces cerevisiae	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Eremothecium
+scerevisiae	family	4932	Saccharomyces cerevisiae	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+scerevisiae	genus	4932	Saccharomyces cerevisiae	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	p__Ascomycota	c__Saccharomycetes	o__Saccharomycetales	f__Saccharomycetaceae	g__Saccharomyces
+celegans	phylum	6239	Caenorhabditis elegans	135651	Caenorhabditis brenneri	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	phylum	6239	Caenorhabditis elegans	31234	Caenorhabditis remanei	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	phylum	6239	Caenorhabditis elegans	6279	Brugia malayi	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Brugia
+celegans	phylum	6239	Caenorhabditis elegans	6293	Wuchereria bancrofti	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Wuchereria
+celegans	phylum	6239	Caenorhabditis elegans	6334	Trichinella spiralis	p__Nematoda	c__Enoplea	o__Trichinellida	f__Trichinellidae	g__Trichinella
+celegans	phylum	6239	Caenorhabditis elegans	7209	Loa loa	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Loa
+celegans	phylum	6239	Caenorhabditis elegans	281687	Caenorhabditis japonica	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	phylum	6239	Caenorhabditis elegans	54126	Pristionchus pacificus	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Neodiplogasteridae	g__Pristionchus
+celegans	phylum	6239	Caenorhabditis elegans	6238	Caenorhabditis briggsae	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	phylum	6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	class	6239	Caenorhabditis elegans	135651	Caenorhabditis brenneri	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	class	6239	Caenorhabditis elegans	31234	Caenorhabditis remanei	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	class	6239	Caenorhabditis elegans	6279	Brugia malayi	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Brugia
+celegans	class	6239	Caenorhabditis elegans	6293	Wuchereria bancrofti	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Wuchereria
+celegans	class	6239	Caenorhabditis elegans	7209	Loa loa	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Loa
+celegans	class	6239	Caenorhabditis elegans	281687	Caenorhabditis japonica	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	class	6239	Caenorhabditis elegans	54126	Pristionchus pacificus	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Neodiplogasteridae	g__Pristionchus
+celegans	class	6239	Caenorhabditis elegans	6238	Caenorhabditis briggsae	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	class	6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	order	6239	Caenorhabditis elegans	135651	Caenorhabditis brenneri	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	order	6239	Caenorhabditis elegans	31234	Caenorhabditis remanei	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	order	6239	Caenorhabditis elegans	6279	Brugia malayi	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Brugia
+celegans	order	6239	Caenorhabditis elegans	6293	Wuchereria bancrofti	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Wuchereria
+celegans	order	6239	Caenorhabditis elegans	7209	Loa loa	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Onchocercidae	g__Loa
+celegans	order	6239	Caenorhabditis elegans	281687	Caenorhabditis japonica	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	order	6239	Caenorhabditis elegans	54126	Pristionchus pacificus	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Neodiplogasteridae	g__Pristionchus
+celegans	order	6239	Caenorhabditis elegans	6238	Caenorhabditis briggsae	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	order	6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	family	6239	Caenorhabditis elegans	135651	Caenorhabditis brenneri	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	family	6239	Caenorhabditis elegans	31234	Caenorhabditis remanei	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	family	6239	Caenorhabditis elegans	281687	Caenorhabditis japonica	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	family	6239	Caenorhabditis elegans	6238	Caenorhabditis briggsae	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	family	6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	genus	6239	Caenorhabditis elegans	135651	Caenorhabditis brenneri	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	genus	6239	Caenorhabditis elegans	31234	Caenorhabditis remanei	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	genus	6239	Caenorhabditis elegans	281687	Caenorhabditis japonica	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	genus	6239	Caenorhabditis elegans	6238	Caenorhabditis briggsae	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+celegans	genus	6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	p__Nematoda	c__Chromadorea	o__Rhabditida	f__Rhabditidae	g__Caenorhabditis
+melanogaster	phylum	7227	Drosophila melanogaster	104421	Camponotus floridanus	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Camponotus
+melanogaster	phylum	7227	Drosophila melanogaster	103372	Acromyrmex echinatior	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Acromyrmex
+melanogaster	phylum	7227	Drosophila melanogaster	278856	Danaus plexippus plexippus	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Nymphalidae	g__Danaus
+melanogaster	phylum	7227	Drosophila melanogaster	610380	Harpegnathos saltator	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Harpegnathos
+melanogaster	phylum	7227	Drosophila melanogaster	7029	Acyrthosiphon pisum	p__Arthropoda	c__Insecta	o__Hemiptera	f__Aphididae	g__Acyrthosiphon
+melanogaster	phylum	7227	Drosophila melanogaster	7070	Tribolium castaneum	p__Arthropoda	c__Insecta	o__Coleoptera	f__Tenebrionidae	g__Tribolium
+melanogaster	phylum	7227	Drosophila melanogaster	7176	Culex quinquefasciatus	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Culex
+melanogaster	phylum	7227	Drosophila melanogaster	7217	Drosophila ananassae	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7222	Drosophila grimshawi	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7230	Drosophila mojavensis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7244	Drosophila virilis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7260	Drosophila willistoni	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7425	Nasonia vitripennis	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Pteromalidae	g__Nasonia
+melanogaster	phylum	7227	Drosophila melanogaster	121224	Pediculus humanus subsp. corporis	p__Arthropoda	c__Insecta	o__Phthiraptera	f__Pediculidae	g__Pediculus
+melanogaster	phylum	7227	Drosophila melanogaster	12957	Atta cephalotes	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Atta
+melanogaster	phylum	7227	Drosophila melanogaster	43151	Anopheles darlingi	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	phylum	7227	Drosophila melanogaster	46245	Drosophila pseudoobscura pseudoobscura	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	6669	Daphnia pulex	p__Arthropoda	c__Branchiopoda	o__Diplostraca	f__Daphniidae	g__Daphnia
+melanogaster	phylum	7227	Drosophila melanogaster	6945	Ixodes scapularis	p__Arthropoda	c__Arachnida	o__Ixodida	f__Ixodidae	g__Ixodes
+melanogaster	phylum	7227	Drosophila melanogaster	7091	Bombyx mori	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Bombycidae	g__Bombyx
+melanogaster	phylum	7227	Drosophila melanogaster	7159	Aedes aegypti	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Aedes
+melanogaster	phylum	7227	Drosophila melanogaster	7165	Anopheles gambiae	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	phylum	7227	Drosophila melanogaster	7227	Drosophila melanogaster	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	phylum	7227	Drosophila melanogaster	7460	Apis mellifera	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Apidae	g__Apis
+melanogaster	phylum	7227	Drosophila melanogaster	36987	Coptotermes formosanus	p__Arthropoda	c__Insecta	o__Blattodea	f__Rhinotermitidae	g__Coptotermes
+melanogaster	phylum	7227	Drosophila melanogaster	7111	Trichoplusia ni	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Noctuidae	g__Trichoplusia
+melanogaster	phylum	7227	Drosophila melanogaster	195883	Laodelphax striatellus	p__Arthropoda	c__Insecta	o__Hemiptera	f__Delphacidae	g__Laodelphax
+melanogaster	phylum	7227	Drosophila melanogaster	6956	Dermatophagoides pteronyssinus	p__Arthropoda	c__Arachnida	o__Sarcoptiformes	f__Pyroglyphidae	g__Dermatophagoides
+melanogaster	phylum	7227	Drosophila melanogaster	105785	Cryptotermes secundus	p__Arthropoda	c__Insecta	o__Blattodea	f__Kalotermitidae	g__Cryptotermes
+melanogaster	phylum	7227	Drosophila melanogaster	76193	Papilio machaon	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Papilionidae	g__Papilio
+melanogaster	phylum	7227	Drosophila melanogaster	7054	Photinus pyralis	p__Arthropoda	c__Insecta	o__Coleoptera	f__Lampyridae	g__Photinus
+melanogaster	phylum	7227	Drosophila melanogaster	441921	Neodiprion lecontei	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Diprionidae	g__Neodiprion
+melanogaster	phylum	7227	Drosophila melanogaster	7048	Sitophilus oryzae	p__Arthropoda	c__Insecta	o__Coleoptera	f__Curculionidae	g__Sitophilus
+melanogaster	phylum	7227	Drosophila melanogaster	7137	Galleria mellonella	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Pyralidae	g__Galleria
+melanogaster	phylum	7227	Drosophila melanogaster	50390	Diabrotica virgifera virgifera	p__Arthropoda	c__Insecta	o__Coleoptera	f__Chrysomelidae	g__Diabrotica
+melanogaster	phylum	7227	Drosophila melanogaster	136037	Zootermopsis nevadensis	p__Arthropoda	c__Insecta	o__Blattodea	f__Termopsidae	g__Zootermopsis
+melanogaster	phylum	7227	Drosophila melanogaster	161013	Thrips palmi	p__Arthropoda	c__Insecta	o__Thysanoptera	f__Thripidae	g__Thrips
+melanogaster	phylum	7227	Drosophila melanogaster	109461	Varroa destructor	p__Arthropoda	c__Arachnida	o__Mesostigmata	f__Varroidae	g__Varroa
+melanogaster	phylum	7227	Drosophila melanogaster	79782	Cimex lectularius	p__Arthropoda	c__Insecta	o__Hemiptera	f__Cimicidae	g__Cimex
+melanogaster	phylum	7227	Drosophila melanogaster	418985	Tropilaelaps mercedesae	p__Arthropoda	c__Arachnida	o__Mesostigmata	f__Laelapidae	g__Tropilaelaps
+melanogaster	phylum	7227	Drosophila melanogaster	13249	Rhodnius prolixus	p__Arthropoda	c__Insecta	o__Hemiptera	f__Reduviidae	g__Rhodnius
+melanogaster	phylum	7227	Drosophila melanogaster	224129	Agrilus planipennis	p__Arthropoda	c__Insecta	o__Coleoptera	f__Buprestidae	g__Agrilus
+melanogaster	phylum	7227	Drosophila melanogaster	343691	Hermetia illucens	p__Arthropoda	c__Insecta	o__Diptera	f__Stratiomyidae	g__Hermetia
+melanogaster	phylum	7227	Drosophila melanogaster	27457	Bactrocera dorsalis	p__Arthropoda	c__Insecta	o__Diptera	f__Tephritidae	g__Bactrocera
+melanogaster	class	7227	Drosophila melanogaster	104421	Camponotus floridanus	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Camponotus
+melanogaster	class	7227	Drosophila melanogaster	103372	Acromyrmex echinatior	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Acromyrmex
+melanogaster	class	7227	Drosophila melanogaster	278856	Danaus plexippus plexippus	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Nymphalidae	g__Danaus
+melanogaster	class	7227	Drosophila melanogaster	610380	Harpegnathos saltator	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Harpegnathos
+melanogaster	class	7227	Drosophila melanogaster	7029	Acyrthosiphon pisum	p__Arthropoda	c__Insecta	o__Hemiptera	f__Aphididae	g__Acyrthosiphon
+melanogaster	class	7227	Drosophila melanogaster	7070	Tribolium castaneum	p__Arthropoda	c__Insecta	o__Coleoptera	f__Tenebrionidae	g__Tribolium
+melanogaster	class	7227	Drosophila melanogaster	7176	Culex quinquefasciatus	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Culex
+melanogaster	class	7227	Drosophila melanogaster	7217	Drosophila ananassae	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7222	Drosophila grimshawi	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7230	Drosophila mojavensis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7244	Drosophila virilis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7260	Drosophila willistoni	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7425	Nasonia vitripennis	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Pteromalidae	g__Nasonia
+melanogaster	class	7227	Drosophila melanogaster	121224	Pediculus humanus subsp. corporis	p__Arthropoda	c__Insecta	o__Phthiraptera	f__Pediculidae	g__Pediculus
+melanogaster	class	7227	Drosophila melanogaster	12957	Atta cephalotes	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Formicidae	g__Atta
+melanogaster	class	7227	Drosophila melanogaster	43151	Anopheles darlingi	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	class	7227	Drosophila melanogaster	46245	Drosophila pseudoobscura pseudoobscura	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7091	Bombyx mori	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Bombycidae	g__Bombyx
+melanogaster	class	7227	Drosophila melanogaster	7159	Aedes aegypti	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Aedes
+melanogaster	class	7227	Drosophila melanogaster	7165	Anopheles gambiae	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	class	7227	Drosophila melanogaster	7227	Drosophila melanogaster	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	class	7227	Drosophila melanogaster	7460	Apis mellifera	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Apidae	g__Apis
+melanogaster	class	7227	Drosophila melanogaster	36987	Coptotermes formosanus	p__Arthropoda	c__Insecta	o__Blattodea	f__Rhinotermitidae	g__Coptotermes
+melanogaster	class	7227	Drosophila melanogaster	7111	Trichoplusia ni	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Noctuidae	g__Trichoplusia
+melanogaster	class	7227	Drosophila melanogaster	195883	Laodelphax striatellus	p__Arthropoda	c__Insecta	o__Hemiptera	f__Delphacidae	g__Laodelphax
+melanogaster	class	7227	Drosophila melanogaster	105785	Cryptotermes secundus	p__Arthropoda	c__Insecta	o__Blattodea	f__Kalotermitidae	g__Cryptotermes
+melanogaster	class	7227	Drosophila melanogaster	76193	Papilio machaon	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Papilionidae	g__Papilio
+melanogaster	class	7227	Drosophila melanogaster	7054	Photinus pyralis	p__Arthropoda	c__Insecta	o__Coleoptera	f__Lampyridae	g__Photinus
+melanogaster	class	7227	Drosophila melanogaster	441921	Neodiprion lecontei	p__Arthropoda	c__Insecta	o__Hymenoptera	f__Diprionidae	g__Neodiprion
+melanogaster	class	7227	Drosophila melanogaster	7048	Sitophilus oryzae	p__Arthropoda	c__Insecta	o__Coleoptera	f__Curculionidae	g__Sitophilus
+melanogaster	class	7227	Drosophila melanogaster	7137	Galleria mellonella	p__Arthropoda	c__Insecta	o__Lepidoptera	f__Pyralidae	g__Galleria
+melanogaster	class	7227	Drosophila melanogaster	50390	Diabrotica virgifera virgifera	p__Arthropoda	c__Insecta	o__Coleoptera	f__Chrysomelidae	g__Diabrotica
+melanogaster	class	7227	Drosophila melanogaster	136037	Zootermopsis nevadensis	p__Arthropoda	c__Insecta	o__Blattodea	f__Termopsidae	g__Zootermopsis
+melanogaster	class	7227	Drosophila melanogaster	161013	Thrips palmi	p__Arthropoda	c__Insecta	o__Thysanoptera	f__Thripidae	g__Thrips
+melanogaster	class	7227	Drosophila melanogaster	79782	Cimex lectularius	p__Arthropoda	c__Insecta	o__Hemiptera	f__Cimicidae	g__Cimex
+melanogaster	class	7227	Drosophila melanogaster	13249	Rhodnius prolixus	p__Arthropoda	c__Insecta	o__Hemiptera	f__Reduviidae	g__Rhodnius
+melanogaster	class	7227	Drosophila melanogaster	224129	Agrilus planipennis	p__Arthropoda	c__Insecta	o__Coleoptera	f__Buprestidae	g__Agrilus
+melanogaster	class	7227	Drosophila melanogaster	343691	Hermetia illucens	p__Arthropoda	c__Insecta	o__Diptera	f__Stratiomyidae	g__Hermetia
+melanogaster	class	7227	Drosophila melanogaster	27457	Bactrocera dorsalis	p__Arthropoda	c__Insecta	o__Diptera	f__Tephritidae	g__Bactrocera
+melanogaster	order	7227	Drosophila melanogaster	7176	Culex quinquefasciatus	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Culex
+melanogaster	order	7227	Drosophila melanogaster	7217	Drosophila ananassae	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	7222	Drosophila grimshawi	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	7230	Drosophila mojavensis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	7244	Drosophila virilis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	7260	Drosophila willistoni	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	43151	Anopheles darlingi	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	order	7227	Drosophila melanogaster	46245	Drosophila pseudoobscura pseudoobscura	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	7159	Aedes aegypti	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Aedes
+melanogaster	order	7227	Drosophila melanogaster	7165	Anopheles gambiae	p__Arthropoda	c__Insecta	o__Diptera	f__Culicidae	g__Anopheles
+melanogaster	order	7227	Drosophila melanogaster	7227	Drosophila melanogaster	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	order	7227	Drosophila melanogaster	343691	Hermetia illucens	p__Arthropoda	c__Insecta	o__Diptera	f__Stratiomyidae	g__Hermetia
+melanogaster	order	7227	Drosophila melanogaster	27457	Bactrocera dorsalis	p__Arthropoda	c__Insecta	o__Diptera	f__Tephritidae	g__Bactrocera
+melanogaster	family	7227	Drosophila melanogaster	7217	Drosophila ananassae	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	7222	Drosophila grimshawi	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	7230	Drosophila mojavensis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	7244	Drosophila virilis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	7260	Drosophila willistoni	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	46245	Drosophila pseudoobscura pseudoobscura	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	family	7227	Drosophila melanogaster	7227	Drosophila melanogaster	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7217	Drosophila ananassae	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7222	Drosophila grimshawi	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7230	Drosophila mojavensis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7244	Drosophila virilis	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7260	Drosophila willistoni	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	46245	Drosophila pseudoobscura pseudoobscura	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+melanogaster	genus	7227	Drosophila melanogaster	7227	Drosophila melanogaster	p__Arthropoda	c__Insecta	o__Diptera	f__Drosophilidae	g__Drosophila
+human	phylum	9606	Homo sapiens	246437	Tupaia chinensis	p__Chordata	c__Mammalia	o__Scandentia	f__Tupaiidae	g__Tupaia
+human	phylum	9606	Homo sapiens	10029	Cricetulus griseus	p__Chordata	c__Mammalia	o__Rodentia	f__Cricetidae	g__Cricetulus
+human	phylum	9606	Homo sapiens	10181	Heterocephalus glaber	p__Chordata	c__Mammalia	o__Rodentia	f__Bathyergidae	g__Heterocephalus
+human	phylum	9606	Homo sapiens	34765	Oikopleura dioica	p__Chordata	c__Appendicularia	o__Copelata	f__Oikopleuridae	g__Oikopleura
+human	phylum	9606	Homo sapiens	8083	Xiphophorus maculatus	p__Chordata	c__Actinopteri	o__Cyprinodontiformes	f__Poeciliidae	g__Xiphophorus
+human	phylum	9606	Homo sapiens	9402	Pteropus alecto	p__Chordata	c__Mammalia	o__Chiroptera	f__Pteropodidae	g__Pteropus
+human	phylum	9606	Homo sapiens	9669	Mustela putorius furo	p__Chordata	c__Mammalia	o__Carnivora	f__Mustelidae	g__Mustela
+human	phylum	9606	Homo sapiens	9685	Felis catus	p__Chordata	c__Mammalia	o__Carnivora	f__Felidae	g__Felis
+human	phylum	9606	Homo sapiens	10090	Mus musculus	p__Chordata	c__Mammalia	o__Rodentia	f__Muridae	g__Mus
+human	phylum	9606	Homo sapiens	10116	Rattus norvegicus	p__Chordata	c__Mammalia	o__Rodentia	f__Muridae	g__Rattus
+human	phylum	9606	Homo sapiens	10141	Cavia porcellus	p__Chordata	c__Mammalia	o__Rodentia	f__Caviidae	g__Cavia
+human	phylum	9606	Homo sapiens	13616	Monodelphis domestica	p__Chordata	c__Mammalia	o__Didelphimorphia	f__Didelphidae	g__Monodelphis
+human	phylum	9606	Homo sapiens	28377	Anolis carolinensis	p__Chordata	c__Lepidosauria	o__Squamata	f__Dactyloidae	g__Anolis
+human	phylum	9606	Homo sapiens	30611	Otolemur garnettii	p__Chordata	c__Mammalia	o__Primates	f__Galagidae	g__Otolemur
+human	phylum	9606	Homo sapiens	31033	Takifugu rubripes	p__Chordata	c__Actinopteri	o__Tetraodontiformes	f__Tetraodontidae	g__Takifugu
+human	phylum	9606	Homo sapiens	43179	Ictidomys tridecemlineatus	p__Chordata	c__Mammalia	o__Rodentia	f__Sciuridae	g__Ictidomys
+human	phylum	9606	Homo sapiens	51511	Ciona savignyi	p__Chordata	c__Ascidiacea	o__Phlebobranchia	f__Cionidae	g__Ciona
+human	phylum	9606	Homo sapiens	59463	Myotis lucifugus	p__Chordata	c__Mammalia	o__Chiroptera	f__Vespertilionidae	g__Myotis
+human	phylum	9606	Homo sapiens	59729	Taeniopygia guttata	p__Chordata	c__Aves	o__Passeriformes	f__Estrildidae	g__Taeniopygia
+human	phylum	9606	Homo sapiens	61853	Nomascus leucogenys	p__Chordata	c__Mammalia	o__Primates	f__Hylobatidae	g__Nomascus
+human	phylum	9606	Homo sapiens	69293	Gasterosteus aculeatus	p__Chordata	c__Actinopteri	o__Perciformes	f__Gasterosteidae	g__Gasterosteus
+human	phylum	9606	Homo sapiens	7719	Ciona intestinalis	p__Chordata	c__Ascidiacea	o__Phlebobranchia	f__Cionidae	g__Ciona
+human	phylum	9606	Homo sapiens	7739	Branchiostoma floridae	p__Chordata	c__Leptocardii	o__Amphioxiformes	f__Branchiostomatidae	g__Branchiostoma
+human	phylum	9606	Homo sapiens	7897	Latimeria chalumnae	p__Chordata	c__unclassified Chordata class	o__Coelacanthiformes	f__Coelacanthidae	g__Latimeria
+human	phylum	9606	Homo sapiens	7955	Danio rerio	p__Chordata	c__Actinopteri	o__Cypriniformes	f__Danionidae	g__Danio
+human	phylum	9606	Homo sapiens	8090	Oryzias latipes	p__Chordata	c__Actinopteri	o__Beloniformes	f__Adrianichthyidae	g__Oryzias
+human	phylum	9606	Homo sapiens	8128	Oreochromis niloticus	p__Chordata	c__Actinopteri	o__Cichliformes	f__Cichlidae	g__Oreochromis
+human	phylum	9606	Homo sapiens	8364	Xenopus tropicalis	p__Chordata	c__Amphibia	o__Anura	f__Pipidae	g__Xenopus
+human	phylum	9606	Homo sapiens	9031	Gallus gallus	p__Chordata	c__Aves	o__Galliformes	f__Phasianidae	g__Gallus
+human	phylum	9606	Homo sapiens	9103	Meleagris gallopavo	p__Chordata	c__Aves	o__Galliformes	f__Phasianidae	g__Meleagris
+human	phylum	9606	Homo sapiens	9258	Ornithorhynchus anatinus	p__Chordata	c__Mammalia	o__Monotremata	f__Ornithorhynchidae	g__Ornithorhynchus
+human	phylum	9606	Homo sapiens	9305	Sarcophilus harrisii	p__Chordata	c__Mammalia	o__Dasyuromorphia	f__Dasyuridae	g__Sarcophilus
+human	phylum	9606	Homo sapiens	9483	Callithrix jacchus	p__Chordata	c__Mammalia	o__Primates	f__Cebidae	g__Callithrix
+human	phylum	9606	Homo sapiens	9544	Macaca mulatta	p__Chordata	c__Mammalia	o__Primates	f__Cercopithecidae	g__Macaca
+human	phylum	9606	Homo sapiens	9595	Gorilla gorilla gorilla	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Gorilla
+human	phylum	9606	Homo sapiens	9598	Pan troglodytes	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pan
+human	phylum	9606	Homo sapiens	9601	Pongo abelii	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pongo
+human	phylum	9606	Homo sapiens	9606	Homo sapiens	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Homo
+human	phylum	9606	Homo sapiens	9615	Canis lupus familiaris	p__Chordata	c__Mammalia	o__Carnivora	f__Canidae	g__Canis
+human	phylum	9606	Homo sapiens	9646	Ailuropoda melanoleuca	p__Chordata	c__Mammalia	o__Carnivora	f__Ursidae	g__Ailuropoda
+human	phylum	9606	Homo sapiens	9785	Loxodonta africana	p__Chordata	c__Mammalia	o__Proboscidea	f__Elephantidae	g__Loxodonta
+human	phylum	9606	Homo sapiens	9796	Equus caballus	p__Chordata	c__Mammalia	o__Perissodactyla	f__Equidae	g__Equus
+human	phylum	9606	Homo sapiens	9823	Sus scrofa	p__Chordata	c__Mammalia	o__Artiodactyla	f__Suidae	g__Sus
+human	phylum	9606	Homo sapiens	9913	Bos taurus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Bovidae	g__Bos
+human	phylum	9606	Homo sapiens	9986	Oryctolagus cuniculus	p__Chordata	c__Mammalia	o__Lagomorpha	f__Leporidae	g__Oryctolagus
+human	phylum	9606	Homo sapiens	99883	Tetraodon nigroviridis	p__Chordata	c__Actinopteri	o__Tetraodontiformes	f__Tetraodontidae	g__Tetraodon
+human	phylum	9606	Homo sapiens	7918	Lepisosteus oculatus	p__Chordata	c__Actinopteri	o__Semionotiformes	f__Lepisosteidae	g__Lepisosteus
+human	phylum	9606	Homo sapiens	29088	Neomonachus schauinslandi	p__Chordata	c__Mammalia	o__Carnivora	f__Phocidae	g__Neomonachus
+human	phylum	9606	Homo sapiens	48883	Geospiza fortis	p__Chordata	c__Aves	o__Passeriformes	f__Thraupidae	g__Geospiza
+human	phylum	9606	Homo sapiens	185453	Chrysochloris asiatica	p__Chordata	c__Mammalia	o__unclassified Mammalia order	f__Chrysochloridae	g__Chrysochloris
+human	phylum	9606	Homo sapiens	173247	Echeneis naucrates	p__Chordata	c__Actinopteri	o__Carangiformes	f__Echeneidae	g__Echeneis
+human	phylum	9606	Homo sapiens	27622	Molossus molossus	p__Chordata	c__Mammalia	o__Chiroptera	f__Molossidae	g__Molossus
+human	phylum	9606	Homo sapiens	219594	Aythya fuligula	p__Chordata	c__Aves	o__Anseriformes	f__Anatidae	g__Aythya
+human	phylum	9606	Homo sapiens	9708	Odobenus rosmarus divergens	p__Chordata	c__Mammalia	o__Carnivora	f__Odobenidae	g__Odobenus
+human	phylum	9606	Homo sapiens	2489341	Strigops habroptila	p__Chordata	c__Aves	o__Psittaciformes	f__Psittacidae	g__Strigops
+human	phylum	9606	Homo sapiens	75366	Sinocyclocheilus grahami	p__Chordata	c__Actinopteri	o__Cypriniformes	f__Cyprinidae	g__Sinocyclocheilus
+human	phylum	9606	Homo sapiens	223781	Aquila chrysaetos chrysaetos	p__Chordata	c__Aves	o__Accipitriformes	f__Accipitridae	g__Aquila
+human	phylum	9606	Homo sapiens	210632	Parambassis ranga	p__Chordata	c__Actinopteri	o__unclassified Actinopteri order	f__Ambassidae	g__Parambassis
+human	phylum	9606	Homo sapiens	7868	Callorhinchus milii	p__Chordata	c__Chondrichthyes	o__Chimaeriformes	f__Callorhinchidae	g__Callorhinchus
+human	phylum	9606	Homo sapiens	9739	Tursiops truncatus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Delphinidae	g__Tursiops
+human	phylum	9606	Homo sapiens	8932	Columba livia	p__Chordata	c__Aves	o__Columbiformes	f__Columbidae	g__Columba
+human	phylum	9606	Homo sapiens	260995	Geotrypetes seraphini	p__Chordata	c__Amphibia	o__Gymnophiona	f__Dermophiidae	g__Geotrypetes
+human	phylum	9606	Homo sapiens	56716	Cottoperca gobio	p__Chordata	c__Actinopteri	o__Perciformes	f__Bovichtidae	g__Cottoperca
+human	phylum	9606	Homo sapiens	649802	Pipra filicauda	p__Chordata	c__Aves	o__Passeriformes	f__Pipridae	g__Pipra
+human	phylum	9606	Homo sapiens	38654	Alligator sinensis	p__Chordata	c__unclassified Chordata class	o__Crocodylia	f__Alligatoridae	g__Alligator
+human	phylum	9606	Homo sapiens	7994	Astyanax mexicanus	p__Chordata	c__Actinopteri	o__Characiformes	f__Characidae	g__Astyanax
+human	phylum	9606	Homo sapiens	89673	Phyllostomus discolor	p__Chordata	c__Mammalia	o__Chiroptera	f__Phyllostomidae	g__Phyllostomus
+human	phylum	9606	Homo sapiens	64144	Anabas testudineus	p__Chordata	c__Actinopteri	o__Anabantiformes	f__Anabantidae	g__Anabas
+human	phylum	9606	Homo sapiens	8010	Esox lucius	p__Chordata	c__Actinopteri	o__Esociformes	f__Esocidae	g__Esox
+human	phylum	9606	Homo sapiens	1706337	Neophocaena asiaeorientalis asiaeorientalis	p__Chordata	c__Mammalia	o__Artiodactyla	f__Phocoenidae	g__Neophocaena
+human	phylum	9606	Homo sapiens	1415580	Microcaecilia unicolor	p__Chordata	c__Amphibia	o__Gymnophiona	f__Siphonopidae	g__Microcaecilia
+human	phylum	9606	Homo sapiens	181472	Salarias fasciatus	p__Chordata	c__Actinopteri	o__Blenniiformes	f__Blenniidae	g__Salarias
+human	phylum	9606	Homo sapiens	8032	Salmo trutta	p__Chordata	c__Actinopteri	o__Salmoniformes	f__Salmonidae	g__Salmo
+human	phylum	9606	Homo sapiens	127582	Trichechus manatus latirostris	p__Chordata	c__Mammalia	o__Sirenia	f__Trichechidae	g__Trichechus
+human	phylum	9606	Homo sapiens	310752	Balaenoptera acutorostrata scammoni	p__Chordata	c__Mammalia	o__Artiodactyla	f__Balaenopteridae	g__Balaenoptera
+human	phylum	9606	Homo sapiens	80966	Acanthochromis polyacanthus	p__Chordata	c__Actinopteri	o__unclassified Actinopteri order	f__Pomacentridae	g__Acanthochromis
+human	phylum	9606	Homo sapiens	9749	Delphinapterus leucas	p__Chordata	c__Mammalia	o__Artiodactyla	f__Monodontidae	g__Delphinapterus
+human	phylum	9606	Homo sapiens	586833	Myripristis murdjan	p__Chordata	c__Actinopteri	o__Holocentriformes	f__Holocentridae	g__Myripristis
+human	phylum	9606	Homo sapiens	118797	Lipotes vexillifer	p__Chordata	c__Mammalia	o__Artiodactyla	f__Lipotidae	g__Lipotes
+human	phylum	9606	Homo sapiens	59479	Rhinolophus ferrumequinum	p__Chordata	c__Mammalia	o__Chiroptera	f__Rhinolophidae	g__Rhinolophus
+human	phylum	9606	Homo sapiens	9880	Odocoileus virginianus texanus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Cervidae	g__Odocoileus
+human	phylum	9606	Homo sapiens	158456	Betta splendens	p__Chordata	c__Actinopteri	o__Anabantiformes	f__Osphronemidae	g__Betta
+human	phylum	9606	Homo sapiens	94885	Pantherophis guttatus	p__Chordata	c__Lepidosauria	o__Squamata	f__Colubridae	g__Pantherophis
+human	phylum	9606	Homo sapiens	8218	Gymnodraco acuticeps	p__Chordata	c__Actinopteri	o__Perciformes	f__Bathydraconidae	g__Gymnodraco
+human	phylum	9606	Homo sapiens	2587831	Terrapene carolina triunguis	p__Chordata	c__unclassified Chordata class	o__Testudines	f__Emydidae	g__Terrapene
+human	phylum	9606	Homo sapiens	10020	Dipodomys ordii	p__Chordata	c__Mammalia	o__Rodentia	f__Heteromyidae	g__Dipodomys
+human	phylum	9606	Homo sapiens	34884	Callorhinus ursinus	p__Chordata	c__Mammalia	o__Carnivora	f__Otariidae	g__Callorhinus
+human	phylum	9606	Homo sapiens	9365	Erinaceus europaeus	p__Chordata	c__Mammalia	o__Eulipotyphla	f__Erinaceidae	g__Erinaceus
+human	phylum	9606	Homo sapiens	103695	Pogona vitticeps	p__Chordata	c__Lepidosauria	o__Squamata	f__Agamidae	g__Pogona
+human	phylum	9606	Homo sapiens	10160	Octodon degus	p__Chordata	c__Mammalia	o__Rodentia	f__Octodontidae	g__Octodon
+human	phylum	9606	Homo sapiens	9755	Physeter macrocephalus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Physeteridae	g__Physeter
+human	phylum	9606	Homo sapiens	205130	Mastacembelus armatus	p__Chordata	c__Actinopteri	o__Synbranchiformes	f__Mastacembelidae	g__Mastacembelus
+human	phylum	9606	Homo sapiens	30538	Vicugna pacos	p__Chordata	c__Mammalia	o__Artiodactyla	f__Camelidae	g__Vicugna
+human	phylum	9606	Homo sapiens	38626	Phascolarctos cinereus	p__Chordata	c__Mammalia	o__Diprotodontia	f__Phascolarctidae	g__Phascolarctos
+human	phylum	9606	Homo sapiens	29144	Chanos chanos	p__Chordata	c__Actinopteri	o__Gonorynchiformes	f__Chanidae	g__Chanos
+human	phylum	9606	Homo sapiens	8187	Lates calcarifer	p__Chordata	c__Actinopteri	o__unclassified Actinopteri order	f__Centropomidae	g__Lates
+human	phylum	9606	Homo sapiens	52670	Austrofundulus limnaeus	p__Chordata	c__Actinopteri	o__Cyprinodontiformes	f__Rivulidae	g__Austrofundulus
+human	phylum	9606	Homo sapiens	244447	Cynoglossus semilaevis	p__Chordata	c__Actinopteri	o__Pleuronectiformes	f__Cynoglossidae	g__Cynoglossus
+human	phylum	9606	Homo sapiens	375764	Sphaeramia orbicularis	p__Chordata	c__Actinopteri	o__Kurtiformes	f__Apogonidae	g__Sphaeramia
+human	phylum	9606	Homo sapiens	56723	Labrus bergylta	p__Chordata	c__Actinopteri	o__Labriformes	f__Labridae	g__Labrus
+human	phylum	9606	Homo sapiens	8175	Sparus aurata	p__Chordata	c__Actinopteri	o__Spariformes	f__Sparidae	g__Sparus
+human	class	9606	Homo sapiens	246437	Tupaia chinensis	p__Chordata	c__Mammalia	o__Scandentia	f__Tupaiidae	g__Tupaia
+human	class	9606	Homo sapiens	10029	Cricetulus griseus	p__Chordata	c__Mammalia	o__Rodentia	f__Cricetidae	g__Cricetulus
+human	class	9606	Homo sapiens	10181	Heterocephalus glaber	p__Chordata	c__Mammalia	o__Rodentia	f__Bathyergidae	g__Heterocephalus
+human	class	9606	Homo sapiens	9402	Pteropus alecto	p__Chordata	c__Mammalia	o__Chiroptera	f__Pteropodidae	g__Pteropus
+human	class	9606	Homo sapiens	9669	Mustela putorius furo	p__Chordata	c__Mammalia	o__Carnivora	f__Mustelidae	g__Mustela
+human	class	9606	Homo sapiens	9685	Felis catus	p__Chordata	c__Mammalia	o__Carnivora	f__Felidae	g__Felis
+human	class	9606	Homo sapiens	10090	Mus musculus	p__Chordata	c__Mammalia	o__Rodentia	f__Muridae	g__Mus
+human	class	9606	Homo sapiens	10116	Rattus norvegicus	p__Chordata	c__Mammalia	o__Rodentia	f__Muridae	g__Rattus
+human	class	9606	Homo sapiens	10141	Cavia porcellus	p__Chordata	c__Mammalia	o__Rodentia	f__Caviidae	g__Cavia
+human	class	9606	Homo sapiens	13616	Monodelphis domestica	p__Chordata	c__Mammalia	o__Didelphimorphia	f__Didelphidae	g__Monodelphis
+human	class	9606	Homo sapiens	30611	Otolemur garnettii	p__Chordata	c__Mammalia	o__Primates	f__Galagidae	g__Otolemur
+human	class	9606	Homo sapiens	43179	Ictidomys tridecemlineatus	p__Chordata	c__Mammalia	o__Rodentia	f__Sciuridae	g__Ictidomys
+human	class	9606	Homo sapiens	59463	Myotis lucifugus	p__Chordata	c__Mammalia	o__Chiroptera	f__Vespertilionidae	g__Myotis
+human	class	9606	Homo sapiens	61853	Nomascus leucogenys	p__Chordata	c__Mammalia	o__Primates	f__Hylobatidae	g__Nomascus
+human	class	9606	Homo sapiens	9258	Ornithorhynchus anatinus	p__Chordata	c__Mammalia	o__Monotremata	f__Ornithorhynchidae	g__Ornithorhynchus
+human	class	9606	Homo sapiens	9305	Sarcophilus harrisii	p__Chordata	c__Mammalia	o__Dasyuromorphia	f__Dasyuridae	g__Sarcophilus
+human	class	9606	Homo sapiens	9483	Callithrix jacchus	p__Chordata	c__Mammalia	o__Primates	f__Cebidae	g__Callithrix
+human	class	9606	Homo sapiens	9544	Macaca mulatta	p__Chordata	c__Mammalia	o__Primates	f__Cercopithecidae	g__Macaca
+human	class	9606	Homo sapiens	9595	Gorilla gorilla gorilla	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Gorilla
+human	class	9606	Homo sapiens	9598	Pan troglodytes	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pan
+human	class	9606	Homo sapiens	9601	Pongo abelii	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pongo
+human	class	9606	Homo sapiens	9606	Homo sapiens	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Homo
+human	class	9606	Homo sapiens	9615	Canis lupus familiaris	p__Chordata	c__Mammalia	o__Carnivora	f__Canidae	g__Canis
+human	class	9606	Homo sapiens	9646	Ailuropoda melanoleuca	p__Chordata	c__Mammalia	o__Carnivora	f__Ursidae	g__Ailuropoda
+human	class	9606	Homo sapiens	9785	Loxodonta africana	p__Chordata	c__Mammalia	o__Proboscidea	f__Elephantidae	g__Loxodonta
+human	class	9606	Homo sapiens	9796	Equus caballus	p__Chordata	c__Mammalia	o__Perissodactyla	f__Equidae	g__Equus
+human	class	9606	Homo sapiens	9823	Sus scrofa	p__Chordata	c__Mammalia	o__Artiodactyla	f__Suidae	g__Sus
+human	class	9606	Homo sapiens	9913	Bos taurus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Bovidae	g__Bos
+human	class	9606	Homo sapiens	9986	Oryctolagus cuniculus	p__Chordata	c__Mammalia	o__Lagomorpha	f__Leporidae	g__Oryctolagus
+human	class	9606	Homo sapiens	29088	Neomonachus schauinslandi	p__Chordata	c__Mammalia	o__Carnivora	f__Phocidae	g__Neomonachus
+human	class	9606	Homo sapiens	185453	Chrysochloris asiatica	p__Chordata	c__Mammalia	o__unclassified Mammalia order	f__Chrysochloridae	g__Chrysochloris
+human	class	9606	Homo sapiens	27622	Molossus molossus	p__Chordata	c__Mammalia	o__Chiroptera	f__Molossidae	g__Molossus
+human	class	9606	Homo sapiens	9708	Odobenus rosmarus divergens	p__Chordata	c__Mammalia	o__Carnivora	f__Odobenidae	g__Odobenus
+human	class	9606	Homo sapiens	9739	Tursiops truncatus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Delphinidae	g__Tursiops
+human	class	9606	Homo sapiens	89673	Phyllostomus discolor	p__Chordata	c__Mammalia	o__Chiroptera	f__Phyllostomidae	g__Phyllostomus
+human	class	9606	Homo sapiens	1706337	Neophocaena asiaeorientalis asiaeorientalis	p__Chordata	c__Mammalia	o__Artiodactyla	f__Phocoenidae	g__Neophocaena
+human	class	9606	Homo sapiens	127582	Trichechus manatus latirostris	p__Chordata	c__Mammalia	o__Sirenia	f__Trichechidae	g__Trichechus
+human	class	9606	Homo sapiens	310752	Balaenoptera acutorostrata scammoni	p__Chordata	c__Mammalia	o__Artiodactyla	f__Balaenopteridae	g__Balaenoptera
+human	class	9606	Homo sapiens	9749	Delphinapterus leucas	p__Chordata	c__Mammalia	o__Artiodactyla	f__Monodontidae	g__Delphinapterus
+human	class	9606	Homo sapiens	118797	Lipotes vexillifer	p__Chordata	c__Mammalia	o__Artiodactyla	f__Lipotidae	g__Lipotes
+human	class	9606	Homo sapiens	59479	Rhinolophus ferrumequinum	p__Chordata	c__Mammalia	o__Chiroptera	f__Rhinolophidae	g__Rhinolophus
+human	class	9606	Homo sapiens	9880	Odocoileus virginianus texanus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Cervidae	g__Odocoileus
+human	class	9606	Homo sapiens	10020	Dipodomys ordii	p__Chordata	c__Mammalia	o__Rodentia	f__Heteromyidae	g__Dipodomys
+human	class	9606	Homo sapiens	34884	Callorhinus ursinus	p__Chordata	c__Mammalia	o__Carnivora	f__Otariidae	g__Callorhinus
+human	class	9606	Homo sapiens	9365	Erinaceus europaeus	p__Chordata	c__Mammalia	o__Eulipotyphla	f__Erinaceidae	g__Erinaceus
+human	class	9606	Homo sapiens	10160	Octodon degus	p__Chordata	c__Mammalia	o__Rodentia	f__Octodontidae	g__Octodon
+human	class	9606	Homo sapiens	9755	Physeter macrocephalus	p__Chordata	c__Mammalia	o__Artiodactyla	f__Physeteridae	g__Physeter
+human	class	9606	Homo sapiens	30538	Vicugna pacos	p__Chordata	c__Mammalia	o__Artiodactyla	f__Camelidae	g__Vicugna
+human	class	9606	Homo sapiens	38626	Phascolarctos cinereus	p__Chordata	c__Mammalia	o__Diprotodontia	f__Phascolarctidae	g__Phascolarctos
+human	order	9606	Homo sapiens	30611	Otolemur garnettii	p__Chordata	c__Mammalia	o__Primates	f__Galagidae	g__Otolemur
+human	order	9606	Homo sapiens	61853	Nomascus leucogenys	p__Chordata	c__Mammalia	o__Primates	f__Hylobatidae	g__Nomascus
+human	order	9606	Homo sapiens	9483	Callithrix jacchus	p__Chordata	c__Mammalia	o__Primates	f__Cebidae	g__Callithrix
+human	order	9606	Homo sapiens	9544	Macaca mulatta	p__Chordata	c__Mammalia	o__Primates	f__Cercopithecidae	g__Macaca
+human	order	9606	Homo sapiens	9595	Gorilla gorilla gorilla	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Gorilla
+human	order	9606	Homo sapiens	9598	Pan troglodytes	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pan
+human	order	9606	Homo sapiens	9601	Pongo abelii	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pongo
+human	order	9606	Homo sapiens	9606	Homo sapiens	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Homo
+human	family	9606	Homo sapiens	9595	Gorilla gorilla gorilla	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Gorilla
+human	family	9606	Homo sapiens	9598	Pan troglodytes	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pan
+human	family	9606	Homo sapiens	9601	Pongo abelii	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Pongo
+human	family	9606	Homo sapiens	9606	Homo sapiens	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Homo
+human	genus	9606	Homo sapiens	9606	Homo sapiens	p__Chordata	c__Mammalia	o__Primates	f__Hominidae	g__Homo

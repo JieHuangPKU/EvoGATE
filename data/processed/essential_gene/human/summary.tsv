@@ -1,0 +1,2 @@
+species	final_essential_count	final_nonessential_count	final_total_labeled	split_train_count	split_val_count	split_test_count	notes
+human	1827	16631	18458	12920	2769	2769	Rebuilt from Bingo

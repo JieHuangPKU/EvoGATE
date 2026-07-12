@@ -1,0 +1,14 @@
+{
+  "config_path": "/home/jiehuang/software/fungi/ProGATE_v2/configs/fgraminearum_label_materialization.yaml",
+  "generated_at_utc": "2026-04-12T01:29:45.197123+00:00",
+  "negative_count": 10750,
+  "output_dir": "/home/jiehuang/software/fungi/ProGATE_v2/data/processed/essential_gene/fgraminearum/oldlabel",
+  "positive_count": 439,
+  "protocol_version": "frozen_protocol_v1",
+  "regime": "oldlabel",
+  "script": "src.data.materialize_fgraminearum_label_regimes",
+  "split_seed": 20260409,
+  "test_fraction": 0.2,
+  "total_count": 11189,
+  "val_fraction": 0.1
+}

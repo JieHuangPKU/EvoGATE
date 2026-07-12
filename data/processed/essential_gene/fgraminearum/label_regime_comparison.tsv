@@ -1,0 +1,3 @@
+regime	positive_count	negative_count	total_count	train_count	val_count	test_count	definition_summary	positive_definition	negative_definition
+oldlabel	439	10750	11189	7832	1119	2238	historical lethal plus virulence replay from old440 mapping audit	mapped historical gene_list Target=1 positives	preserved negative pool after overlap removal with old440 positives
+newlabel	1097	10868	11965	8375	1197	2393	current lethal plus evolution regime	lethal PHI-supported positives union high-confidence yeast-transfer-supported positives	weak-none pool after virulence/pathogenicity and positive exclusion

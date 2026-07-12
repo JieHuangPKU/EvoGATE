@@ -1,0 +1,285 @@
+paths:
+  processed_root: data/processed
+  frozen_protocol_root: results/frozen_protocol
+  labels_dir: results/frozen_protocol/labels
+  splits_dir: results/frozen_protocol/splits
+  summary_dir: results/frozen_protocol/summary
+  benchmark_output_root: outputs/frozen_protocol_benchmark_v2
+  classical_benchmark_output_root: outputs/classical_baseline_benchmark_v2
+  classical_summary_dir: results/classical_baseline_benchmark
+  protocol_audit_root: docs/protocol_refactor
+  mirrored_master_evidence: data/interim/protocol_refactor/master_evidence_table.preliminary.tsv
+runtime:
+  env_name: EPGAT
+  python_bin: /home/jiehuang/anaconda3/bin/python
+  epgat_python_bin: /home/jiehuang/anaconda3/envs/EPGAT/bin/python
+  mplconfigdir: /home/jiehuang/software/fungi/ProGATE_v2/.mplconfig
+  xdg_cache_home: /home/jiehuang/software/fungi/ProGATE_v2/.cache
+  device: cpu
+  node2vec_backend: native_walk
+  require_true_node2vec: true
+  graph_contract: undirected_symmetrized
+  string_threshold: 300
+  use_edge_weights: false
+  include_degree: true
+  split_seed: 20260409
+  test_fraction: 0.2
+  val_fraction: 0.1
+  protocol_version: frozen_protocol_v1
+  early_stopping: true
+  seed_list:
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  - 1033
+  esm2_projection_dim: 160
+feature_roots:
+  ppi: data/processed/PPI
+  orthologs: data/processed/OR
+  expression: data/processed/EXP
+  sublocalization: data/processed/LC
+esm2:
+  python_bin: /home/jiehuang/anaconda3/envs/progate/bin/python
+  cache_root: data/processed/phase1_esm2_mlp/species
+  protein_fastas:
+    human: data/processed/essential_gene/human/protein.fa
+    celegans: data/processed/essential_gene/celegans/protein.fa
+    scerevisiae: data/processed/essential_gene/scerevisiae/protein.fa
+    melanogaster: data/processed/essential_gene/melanogaster/protein.fa
+    fgraminearum: data/processed/essential_gene/fgraminearum/protein.fa
+  backend: esm2
+  model_name_or_path: /home/jiehuang/software/AI/ESM/esm2_t33_650M_UR50D
+  local_files_only: true
+  cache_dir: /home/jiehuang/.cache/huggingface/hub
+  max_length: 1024
+  batch_size: 4
+  device: cuda
+  mock_embedding_dim: 320
+  pooling: mean
+label_sources:
+  human_standard: data/processed/essential_gene/human/labels.standard.tsv
+  celegans_standard: data/processed/essential_gene/celegans/labels.standard.tsv
+  scerevisiae_standard: data/processed/essential_gene/scerevisiae/labels.standard.tsv
+  dmelanogaster_standard: data/processed/essential_gene/melanogaster/labels.standard.tsv
+  fgraminearum_oldlabel_positive: data/processed/essential_gene/fgraminearum/oldlabel/positive_genes.tsv
+  fgraminearum_oldlabel_negative: data/processed/essential_gene/fgraminearum/oldlabel/negative_genes.tsv
+  fgraminearum_newlabel_positive: data/processed/essential_gene/fgraminearum/newlabel/positive_genes.tsv
+  fgraminearum_newlabel_negative: data/processed/essential_gene/fgraminearum/newlabel/negative_genes.tsv
+protocols:
+  human:
+    species: human
+    regime: standard
+    data_key: human
+    label_source_type: standard_processed
+    label_source_key: human_standard
+    label_output: human_labels.tsv
+    split_output: human_split.tsv
+    is_mainline: true
+  celegans:
+    species: celegans
+    regime: standard
+    data_key: celegans
+    label_source_type: standard_processed
+    label_source_key: celegans_standard
+    label_output: celegans_labels.tsv
+    split_output: celegans_split.tsv
+    is_mainline: true
+  scerevisiae:
+    species: scerevisiae
+    regime: standard
+    data_key: scerevisiae
+    label_source_type: standard_processed
+    label_source_key: scerevisiae_standard
+    label_output: scerevisiae_labels.tsv
+    split_output: scerevisiae_split.tsv
+    is_mainline: true
+  dmelanogaster:
+    species: dmelanogaster
+    regime: standard
+    data_key: melanogaster
+    label_source_type: standard_processed
+    label_source_key: dmelanogaster_standard
+    label_output: dmelanogaster_labels.tsv
+    split_output: dmelanogaster_split.tsv
+    is_mainline: true
+  fgraminearum_oldlabel:
+    species: fgraminearum
+    regime: oldlabel
+    data_key: fgraminearum
+    label_source_type: positive_negative_pair
+    positive_source_key: fgraminearum_oldlabel_positive
+    negative_source_key: fgraminearum_oldlabel_negative
+    label_output: fgraminearum_oldlabel.tsv
+    split_output: fgraminearum_oldlabel_split.tsv
+    is_mainline: false
+  fgraminearum_newlabel:
+    species: fgraminearum
+    regime: newlabel
+    data_key: fgraminearum
+    label_source_type: positive_negative_pair
+    positive_source_key: fgraminearum_newlabel_positive
+    negative_source_key: fgraminearum_newlabel_negative
+    label_output: fgraminearum_newlabel.tsv
+    split_output: fgraminearum_newlabel_split.tsv
+    is_mainline: true
+workflow:
+  protocol_order:
+  - human
+  - celegans
+  - scerevisiae
+  - dmelanogaster
+  - fgraminearum_oldlabel
+  - fgraminearum_newlabel
+  graph_models:
+  - GAT
+  - GCN
+  - GIN
+  - GraphSAGE
+  trainable_models:
+  - MLP
+  - RF
+  - SVM
+  - NB
+  - N2V_MLP
+  - GAT
+  - GCN
+  - GIN
+  - GraphSAGE_ORT_EXP_SUB
+  - GraphSAGE_ESM2
+  - GraphSAGE_ORT_EXP_SUB_ESM2
+  deterministic_models:
+  - DC
+  - CC
+models:
+  MLP:
+    family: tabular
+    feature_setting: ORT_EXP_SUB
+    hidden_dim: 32
+    dropout: 0.2
+    learning_rate: 0.001
+    weight_decay: 0.0
+    epochs: 200
+    patience: 20
+    early_stopping: true
+  RF:
+    family: tabular
+    feature_setting: ORT_EXP_SUB
+    n_estimators: 500
+    class_weight: balanced
+    n_jobs: -1
+  SVM:
+    family: tabular
+    feature_setting: ORT_EXP_SUB
+    c: 1.0
+    kernel: rbf
+    gamma: scale
+    class_weight: balanced
+  NB:
+    family: tabular
+    feature_setting: ORT_EXP_SUB
+  N2V_MLP:
+    family: node2vec
+    feature_setting: N2V
+    embedding_dim: 64
+    walk_length: 32
+    context_size: 32
+    walks_per_node: 16
+    num_negative_samples: 1
+    epochs: 50
+    batch_size: 256
+    learning_rate: 0.005
+    p: 1.0
+    q: 1.0
+    mlp_hidden_dim: 32
+    mlp_dropout: 0.2
+    mlp_learning_rate: 0.001
+    mlp_weight_decay: 0.0
+    mlp_epochs: 200
+    mlp_patience: 20
+    early_stopping: true
+  DC:
+    family: heuristic
+    feature_setting: NETWORK
+    deterministic: true
+  CC:
+    family: heuristic
+    feature_setting: NETWORK
+    deterministic: true
+  GAT:
+    family: graph
+    feature_setting: ORT_EXP_SUB
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0002
+    dropout: 0.3
+  GCN:
+    family: graph
+    feature_setting: ORT_EXP_SUB
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.001
+    weight_decay: 0.0001
+    hidden_dim: 64
+    dropout: 0.5
+  GIN:
+    family: graph
+    feature_setting: ORT_EXP_SUB
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0005
+    dim_h: 64
+    dropout: 0.4
+  GraphSAGE_ORT_EXP_SUB:
+    family: graph
+    feature_setting: ORT_EXP_SUB
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0001
+    n_hidden: 64
+    n_layers: 2
+    dropout: 0.4
+    aggregator_type: mean
+  GraphSAGE_ESM2:
+    family: graph
+    feature_setting: ESM2
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0001
+    n_hidden: 64
+    n_layers: 2
+    dropout: 0.4
+    aggregator_type: mean
+  GraphSAGE_ORT_EXP_SUB_ESM2:
+    family: graph
+    feature_setting: ORT_EXP_SUB_ESM2
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0001
+    n_hidden: 64
+    n_layers: 2
+    dropout: 0.4
+    aggregator_type: mean
+  GraphSAGE:
+    family: graph
+    feature_setting: ORT_EXP_SUB
+    epochs: 200
+    patience: 20
+    early_stopping: true
+    lr: 0.005
+    weight_decay: 0.0001
+    n_hidden: 64
+    n_layers: 2
+    dropout: 0.4
+    aggregator_type: mean

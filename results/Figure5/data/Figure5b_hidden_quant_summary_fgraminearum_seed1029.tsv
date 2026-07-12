@@ -1,0 +1,13 @@
+seed	protocol	species	space	metric	value	scale_factor	display_value
+1029	fgraminearum_newlabel	fgraminearum	bio_input	centroid_distance	2.6864843368530273	1.0	2.6864843368530273
+1029	fgraminearum_newlabel	fgraminearum	bio_input	silhouette_score	0.1295320838689804	1.0	0.1295320838689804
+1029	fgraminearum_newlabel	fgraminearum	bio_input	davies_bouldin_index	6.007790224993793	1.0	6.007790224993793
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_input	centroid_distance	13.08339786529541	1.0	13.08339786529541
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_input	silhouette_score	0.009185663424432278	1.0	0.009185663424432278
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_input	davies_bouldin_index	5.592016398438006	1.0	5.592016398438006
+1029	fgraminearum_newlabel	fgraminearum	bio_hidden	centroid_distance	3.428318500518799	1.0	3.428318500518799
+1029	fgraminearum_newlabel	fgraminearum	bio_hidden	silhouette_score	-0.09334962069988251	1.0	-0.09334962069988251
+1029	fgraminearum_newlabel	fgraminearum	bio_hidden	davies_bouldin_index	2.9652416081945683	1.0	2.9652416081945683
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_hidden	centroid_distance	23.47597885131836	1.0	23.47597885131836
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_hidden	silhouette_score	-0.16643142700195312	1.0	-0.16643142700195312
+1029	fgraminearum_newlabel	fgraminearum	bio_esm2_hidden	davies_bouldin_index	2.1493990199101036	1.0	2.1493990199101036

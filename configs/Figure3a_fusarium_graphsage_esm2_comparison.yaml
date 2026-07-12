@@ -1,0 +1,27 @@
+base_config: configs/frozen_protocol.yaml
+summary_prefix: Figure3a
+target_name: multi_species
+output_root: outputs/Figure3a
+results_root: results/Figure3a
+protocols:
+  - fgraminearum_newlabel
+  - scerevisiae
+models:
+  - GraphSAGE
+protocol_feature_settings:
+  fgraminearum_newlabel:
+    - ESM2
+    - ORT_EXP_SUB
+    - ORT_EXP_SUB_ESM2
+    - ORT_ESM2
+  scerevisiae:
+    - ESM2
+    - ORT_ESM2
+    - ORT_EXP_SUB
+    - ORT_EXP_SUB_ESM2
+seed_list:
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  - 1033

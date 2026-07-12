@@ -1,0 +1,8 @@
+metric	count	source_file	definition
+old positives	439	data/processed/essential_gene/fgraminearum/oldlabel/summary.tsv	oldlabel positive_count
+new positives	1097	data/processed/essential_gene/fgraminearum/newlabel/summary.tsv	newlabel positive_count
+high-confidence transferred positives	1045	data/processed/essential_gene/fgraminearum/bridge/high_confidence_yeast_transfer_candidates.tsv	unique canonical_gene_id in protocolized high-confidence transfer candidates
+old total	11189	data/processed/essential_gene/fgraminearum/oldlabel/summary.tsv	oldlabel total_count
+new total	11965	data/processed/essential_gene/fgraminearum/newlabel/summary.tsv	newlabel total_count
+PHI-supported positives	77	data/interim/protocol_refactor/fgraminearum_label_materialization/lethal_positive_gene_list.tsv	final positives with PHI-base essential/lethal support
+yeast-transfer-supported positives	1045	data/processed/essential_gene/fgraminearum/newlabel/positive_genes.tsv	final positives with support_from_protocolized_bridge=true

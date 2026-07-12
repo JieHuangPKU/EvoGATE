@@ -1,0 +1,4 @@
+top_k	shared_candidates	ESM2_unique_candidates	baseline_only_candidates	jaccard
+100	22	78	78	0.12359550561797752
+200	75	125	125	0.23076923076923078
+500	237	263	263	0.3106159895150721

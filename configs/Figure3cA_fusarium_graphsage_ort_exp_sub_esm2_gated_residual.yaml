@@ -1,0 +1,28 @@
+base_config: configs/frozen_protocol.yaml
+summary_prefix: Figure3cA
+target_name: fgraminearum_newlabel
+output_root: outputs/Figure3cA
+results_root: results/Figure3cA
+baseline_reuse_root: outputs/Figure3a
+old_gated_reuse_root: outputs/Figure3c
+protocols:
+  - fgraminearum_newlabel
+models:
+  - GraphSAGE
+protocol_feature_settings:
+  fgraminearum_newlabel:
+    - ORT_EXP_SUB_ESM2
+    - ORT_EXP_SUB_ESM2_GATED
+    - ORT_EXP_SUB_ESM2_GATED_RESIDUAL
+seed_list:
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  - 1033
+fusion_mode: residual_gated_concat
+fusion_hidden_dim: 256
+fusion_dropout: 0.2
+loss_type: balanced_bce
+pos_weight_mode: ""
+pos_weight_scale: 1.0

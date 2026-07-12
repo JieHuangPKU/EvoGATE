@@ -1,0 +1,6 @@
+class	hex_color	source_palette
+scer_only	#88CCEE	palettable.cartocolors.qualitative.Safe_10[0]
+spom_only	#CC6677	palettable.cartocolors.qualitative.Safe_10[1]
+both	#DDCC77	palettable.cartocolors.qualitative.Safe_10[2]
+Positive_Final	#117733	palettable.cartocolors.qualitative.Safe_10[3]
+Excluded	#8E8E8E	manual_neutral_gray

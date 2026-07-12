@@ -1,0 +1,98 @@
+targets:
+  human:
+    protocol_name: human
+    species: human
+    protein_fasta: data/processed/essential_gene/human/protein.fa
+    labels: data/processed/essential_gene/human/labels.standard.tsv
+    id_column: gene_id
+    label_column: label_binary
+    split_id_column: canonical_gene_id
+  celegans:
+    protocol_name: celegans
+    species: celegans
+    protein_fasta: data/processed/essential_gene/celegans/protein.fa
+    labels: data/processed/essential_gene/celegans/labels.standard.tsv
+    id_column: gene_id
+    label_column: label_binary
+    split_id_column: canonical_gene_id
+  scerevisiae:
+    protocol_name: scerevisiae
+    species: scerevisiae
+    protein_fasta: data/processed/essential_gene/scerevisiae/protein.fa
+    labels: data/processed/essential_gene/scerevisiae/labels.standard.tsv
+    id_column: gene_id
+    label_column: label_binary
+    split_id_column: canonical_gene_id
+  melanogaster:
+    protocol_name: dmelanogaster
+    species: melanogaster
+    protein_fasta: data/processed/essential_gene/melanogaster/protein.fa
+    labels: data/processed/essential_gene/melanogaster/labels.standard.tsv
+    id_column: gene_id
+    label_column: label_binary
+    split_id_column: canonical_gene_id
+  fgraminearum_oldlabel:
+    protocol_name: fgraminearum_oldlabel
+    species: fgraminearum
+    protein_fasta: data/processed/essential_gene/fgraminearum/protein.fa
+    labels: data/processed/essential_gene/fgraminearum/oldlabel/labels.tsv
+    id_column: graph_gene_id
+    label_column: label
+    split_id_column: graph_gene_id
+  fgraminearum_newlabel:
+    protocol_name: fgraminearum_newlabel
+    species: fgraminearum
+    protein_fasta: data/processed/essential_gene/fgraminearum/protein.fa
+    labels: data/processed/essential_gene/fgraminearum/newlabel/labels.tsv
+    id_column: graph_gene_id
+    label_column: label
+    split_id_column: graph_gene_id
+
+benchmark_contract:
+  frozen_protocol_config: configs/frozen_protocol.yaml
+  evaluation_contract: frozen_fixed_split_5_seed_mean_std
+  feature_setting: ESM2_MEAN_POOLED
+  model_name: ESM2_MLP
+  embedding_contract_group: esm2_species_level_pooled
+
+paths:
+  phase1_processed_root: data/processed/ESM2
+  phase1_results_root: results/phase1_esm2_mlp
+
+esm2:
+  python_bin: /home/jiehuang/anaconda3/envs/progate/bin/python
+  cache_root: data/processed/ESM2
+  protein_fastas:
+    human: data/processed/essential_gene/human/protein.fa
+    celegans: data/processed/essential_gene/celegans/protein.fa
+    scerevisiae: data/processed/essential_gene/scerevisiae/protein.fa
+    melanogaster: data/processed/essential_gene/melanogaster/protein.fa
+    fgraminearum: data/processed/essential_gene/fgraminearum/protein.fa
+  backend: esm2
+  model_name_or_path: /home/jiehuang/software/AI/ESM/esm2_t33_650M_UR50D
+  local_files_only: true
+  cache_dir: /home/jiehuang/.cache/huggingface/hub
+  max_length: 1024
+  batch_size: 4
+  device: cuda
+  mock_embedding_dim: 320
+  pooling: mean
+
+training:
+  split_mode: predefined
+  train_split: train
+  val_split: val
+  test_split: test
+  k_folds: 0
+  val_fraction: 0.1
+  test_fraction: 0.2
+  batch_size: 4
+  max_epochs: 8
+  patience: 3
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  hidden_dims:
+    - 64
+    - 16
+  dropout: 0.1
+  device: cuda

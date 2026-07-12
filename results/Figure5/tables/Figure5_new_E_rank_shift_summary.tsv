@@ -1,0 +1,7 @@
+metric	value
+n_genome_wide_genes	13022.0
+n_esm2_rescued_top500	189.0
+max_rank_gain	10275.0
+median_rank_gain	-47.0
+n_positive_rank_gain	6350.0
+n_negative_rank_gain	6669.0

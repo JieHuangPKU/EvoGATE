@@ -1,0 +1,9 @@
+Species	Feature_Setting	present_in_summary	mean_available	std_available	runs_available	status
+fgraminearum	ESM2	True	True	True	True	OK
+fgraminearum	ORT_ESM2	True	True	True	True	OK
+fgraminearum	ORT_EXP_SUB	True	True	True	True	OK
+fgraminearum	ORT_EXP_SUB_ESM2	True	True	True	True	OK
+scerevisiae	ESM2	True	True	True	True	OK
+scerevisiae	ORT_ESM2	True	True	True	True	OK
+scerevisiae	ORT_EXP_SUB	True	True	True	True	OK
+scerevisiae	ORT_EXP_SUB_ESM2	True	True	True	True	OK

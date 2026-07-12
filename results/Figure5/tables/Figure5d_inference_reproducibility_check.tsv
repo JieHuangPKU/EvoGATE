@@ -1,0 +1,11 @@
+protocol	species	seed	subset	max_abs_probability_diff_vs_saved	mean_abs_probability_diff_vs_saved	saved_pred_label_match_fraction
+fgraminearum_newlabel	fgraminearum	1029	test	2.980232238769531e-07	1.1475588719572045e-08	1.0
+fgraminearum_newlabel	fgraminearum	1030	test	2.980232238769531e-07	1.0777376867495536e-08	1.0
+fgraminearum_newlabel	fgraminearum	1031	test	2.0861625676937834e-07	1.0171554368459011e-08	1.0
+fgraminearum_newlabel	fgraminearum	1032	test	8.940696715753482e-07	1.1044387226532896e-08	1.0
+fgraminearum_newlabel	fgraminearum	1033	test	0.15511527657508845	0.007087914649855565	0.9937317175094025
+scerevisiae	scerevisiae	1029	test	3.5762786865234375e-07	1.9235973011574406e-08	1.0
+scerevisiae	scerevisiae	1030	test	0.31719860434532166	0.021774822467081675	0.9724689165186501
+scerevisiae	scerevisiae	1031	test	2.980232238769531e-07	1.887657761090853e-08	1.0
+scerevisiae	scerevisiae	1032	test	4.172325134832455e-07	1.9024684926963435e-08	1.0
+scerevisiae	scerevisiae	1033	test	3.5762786865234375e-07	2.0118026466475838e-08	1.0

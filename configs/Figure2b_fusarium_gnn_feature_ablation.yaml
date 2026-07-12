@@ -1,0 +1,27 @@
+base_config: configs/frozen_protocol.yaml
+summary_prefix: Figure2b
+target_name: fgraminearum
+output_root: outputs/Figure2b
+results_root: results/Figure2b
+reuse_source_root: outputs/fgraminearum_old_newlabel_benchmark
+protocols:
+  - fgraminearum_newlabel
+models:
+  - GAT
+  - GCN
+  - GIN
+  - GraphSAGE
+feature_settings:
+  - ORT
+  - EXP
+  - SUB
+  - ORT_EXP
+  - ORT_SUB
+  - EXP_SUB
+  - ORT_EXP_SUB
+seed_list:
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  - 1033

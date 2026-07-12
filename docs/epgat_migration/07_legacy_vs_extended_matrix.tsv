@@ -1,0 +1,23 @@
+component	category	legacy_original	extended_epgat	notes
+README and published usage contract	document	yes	no	Represents paper-original posture.
+GAT core model	core_model	yes	yes	Same family, but extended runs add PLM and more outputs.
+GCN	model_baseline	no	yes	Post-paper expansion.
+GIN	model_baseline	no	yes	Post-paper expansion.
+GraphSAGE	model_baseline	no	yes	Post-paper expansion.
+MLP/RF/SVM/Bayes/GB	classical_baseline	no	yes	Post-paper expansion.
+Node2Vec+MLP	classical_baseline	no	yes	Post-paper expansion.
+CC/DC/BC network heuristics	heuristic_baseline	no	yes	Post-paper expansion.
+PPI	string/biogrid/dip	yes	yes	Original contract includes PPI.
+Expression	omics_feature	yes	yes	Original optional feature.
+Orthologs	omics_feature	yes	yes	Original optional feature.
+Subcellular localization	omics_feature	yes	yes	Original optional feature.
+ESM2	plm_feature	no	yes	Extended only.
+ESM1b	plm_feature	no	yes	Extended only.
+ESMC	plm_feature	no	yes	Extended only.
+ProtT5	plm_feature	no	yes	Extended only.
+ProtBERT	plm_feature	no	yes	Extended only.
+run_all_experiments.py	batch_scheduler	no	yes	Extended embedding scheduler.
+run_all_experiments_omics.py	batch_scheduler	no	yes	Extended omics scheduler.
+shared_visualizer.py	eval_support	no	yes	Extended visualization/output support.
+Fusarium raw processing scripts	species_extension	no	yes	Fusarium-specific additions.
+backup/date-stamped runner copies	repo_residue	no	yes	Not part of desired migrated runtime.

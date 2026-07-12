@@ -1,0 +1,14 @@
+location	gene_count	raw_term_count	example_raw_terms
+Cytoplasm	11537	43	Cytosolic large ribosomal subunit;Dendrite cytoplasm;Cytoplasmic ribonucleoprotein granule;Cytoplasmic side of Golgi membrane;Cytoplasmic region
+Nucleus	8486	87	Megasporocyte nucleus;Nuclear replisome;Nuclear origin of replication recognition complex;Nuclear pore inner ring;Chromatin lock complex
+Cell membrane	6769	31	Lateral plasma membrane;External side of plasma membrane;Cytoplasmic side of apical plasma membrane;Endoplasmic reticulum-plasma membrane contact site;Basolateral plasma membrane
+Secreted	3916	9	Extracellular vesicle;Extracellular region;Extracellular exosome;synapse-associated extracellular matrix;Extracellular matrix of synaptic cleft
+Cytoskeleton	2657	61	Actin cytoskeleton;Microtubule organizing center;Meiotic spindle;spectrin-associated cytoskeleton;Axonemal microtubule
+Endoplasmic reticulum	2023	27	Endoplasmic reticulum;Smooth endoplasmic reticulum;Extrinsic component of endoplasmic reticulum membrane;Longitudinal sarcoplasmic reticulum;Endoplasmic reticulum-Golgi intermediate compartment membrane
+Mitochondrion	1749	45	Mitochondrial ribonuclease P complex;Mitochondrial outer membrane translocase complex;Mitochondrion;Mitochondrial small ribosomal subunit;Mitochondrial isocitrate dehydrogenase complex (NAD+)
+Golgi	1649	25	Golgi apparatus;Golgi transport complex;Golgi medial cisterna membrane;Golgi cisterna;trans-Golgi network transport vesicle
+Endosome	1033	21	Recycling endosome membrane;Tubular endosome;Late endosome;Extrinsic component of postsynaptic endosome membrane;Postsynaptic endosome membrane
+Vacuole	841	11	Vacuole;Vacuolar proton-transporting V-type ATPase, V0 domain;Vacuolar HOPS complex;Lytic vacuole membrane;Vacuolar proton-transporting V-type ATPase, V1 domain
+Lysosome	753	13	Autolysosome membrane;Phagolysosome;Phagolysosome membrane;Extrinsic component of lysosome membrane;Primary lysosome
+Ribosome	287	13	Large ribosomal subunit;Small ribosomal subunit;Polysomal ribosome;Organellar small ribosomal subunit;Pwp2p-containing subcomplex of 90S preribosome
+Peroxisome	140	4	Peroxisome;Peroxisomal matrix;Peroxisomal importomer complex;Peroxisomal membrane

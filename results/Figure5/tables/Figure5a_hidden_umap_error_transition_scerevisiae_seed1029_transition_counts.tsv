@@ -1,0 +1,9 @@
+species	protocol	transition	transition_display	gene_count	seed
+scerevisiae	scerevisiae	FN_persistent	persistent_FN	31	1029
+scerevisiae	scerevisiae	FN_to_TP_rescued	FN_to_TP_rescued	11	1029
+scerevisiae	scerevisiae	FP_persistent	persistent_FP	75	1029
+scerevisiae	scerevisiae	FP_to_TN_corrected	FP_to_TN_corrected	157	1029
+scerevisiae	scerevisiae	TN_stable	TN_stable	663	1029
+scerevisiae	scerevisiae	TN_to_FP_regressed	TN_to_FP_regressed	21	1029
+scerevisiae	scerevisiae	TP_stable	TP_stable	119	1029
+scerevisiae	scerevisiae	TP_to_FN_regressed	TP_to_FN_regressed	49	1029

@@ -1,0 +1,10 @@
+model	feature_group	source_feature_block	n_features	metric	grouped_importance	importance_error	importance_source	status
+GraphSAGE + ORT_EXP_SUB	ORT	orthologs	167	delta_auprc				not_available_baseline_group_ablation_not_found
+GraphSAGE + ORT_EXP_SUB	EXP	expression	60	delta_auprc				not_available_baseline_group_ablation_not_found
+GraphSAGE + ORT_EXP_SUB	SUB	sublocalization	12	delta_auprc				not_available_baseline_group_ablation_not_found
+GraphSAGE + ORT_EXP_SUB	Graph topology / degree	degree	1	delta_auprc				not_available_baseline_group_ablation_not_found
+GraphSAGE + ORT_EXP_SUB_ESM2	ORT	orthologs	167	delta_auprc	0.0109576177363163	0.0046070070116464	results/Figure5/tables/Figure5d_group_ablation_global_summary.tsv	available_group_ablation_delta_auprc
+GraphSAGE + ORT_EXP_SUB_ESM2	EXP	expression	60	delta_auprc	0.0210894118245101	0.0031840457786185	results/Figure5/tables/Figure5d_group_ablation_global_summary.tsv	available_group_ablation_delta_auprc
+GraphSAGE + ORT_EXP_SUB_ESM2	SUB	sublocalization	12	delta_auprc	0.0260280029036329	0.0041550399659492	results/Figure5/tables/Figure5d_group_ablation_global_summary.tsv	available_group_ablation_delta_auprc
+GraphSAGE + ORT_EXP_SUB_ESM2	Graph topology / degree	degree	1	delta_auprc				not_available_group_not_in_existing_ablation
+GraphSAGE + ORT_EXP_SUB_ESM2	ESM2	esm2	1280	delta_auprc	0.1927927608697181	0.0270034210059777	results/Figure5/tables/Figure5d_group_ablation_global_summary.tsv	available_group_ablation_delta_auprc

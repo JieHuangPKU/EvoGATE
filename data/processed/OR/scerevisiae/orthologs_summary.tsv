@@ -1,0 +1,2 @@
+species	folder	labels_path	download_dir	downloaded_file_count	target_species_count	raw_focal_id_count	mapped_focal_id_count	unmapped_focal_id_count	ambiguous_focal_id_count	label_gene_count	final_gene_count_in_matrix	matrix_column_count	download_link_count	used_string_aliases	notes
+scerevisiae	S.cerevisiae	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/essential_gene/scerevisiae/labels.standard.tsv	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/Download/InParanoid8/S.cerevisiae	62	62	5425	4893	240	292	5628	5628	62	62	True	

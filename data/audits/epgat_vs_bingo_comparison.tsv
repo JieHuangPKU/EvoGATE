@@ -1,0 +1,6 @@
+species	epgat_essential	epgat_nonessential	bingo_essential	bingo_nonessential	common_genes	only_epgat	only_bingo	conflicts
+celegans	1103	8144	578	13104	0	9247	13682	0
+fgraminearum	440	13706	439	13706	14145	1	0	0
+human	1827	16649	1827	16631	0	18476	18458	0
+melanogaster	402	6138	365	5864	6229	311	0	0
+scerevisiae	1050	4586	1050	4578	0	5636	5628	0

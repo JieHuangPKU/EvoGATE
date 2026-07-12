@@ -1,0 +1,13 @@
+seed	protocol	species	space	metric	value	scale_factor	display_value
+1029	scerevisiae	scerevisiae	bio_input	centroid_distance	4.017195701599121	1.0	4.017195701599121
+1029	scerevisiae	scerevisiae	bio_input	silhouette_score	0.06377463042736053	1.0	0.06377463042736053
+1029	scerevisiae	scerevisiae	bio_input	davies_bouldin_index	4.84108692658611	1.0	4.84108692658611
+1029	scerevisiae	scerevisiae	bio_esm2_input	centroid_distance	8.511728286743164	1.0	8.511728286743164
+1029	scerevisiae	scerevisiae	bio_esm2_input	silhouette_score	-0.012594479136168957	1.0	-0.012594479136168957
+1029	scerevisiae	scerevisiae	bio_esm2_input	davies_bouldin_index	8.283249370460808	1.0	8.283249370460808
+1029	scerevisiae	scerevisiae	bio_hidden	centroid_distance	4.2807135581970215	1.0	4.2807135581970215
+1029	scerevisiae	scerevisiae	bio_hidden	silhouette_score	0.03140733763575554	1.0	0.03140733763575554
+1029	scerevisiae	scerevisiae	bio_hidden	davies_bouldin_index	2.7249805518531427	1.0	2.7249805518531427
+1029	scerevisiae	scerevisiae	bio_esm2_hidden	centroid_distance	15.850019454956055	1.0	15.850019454956055
+1029	scerevisiae	scerevisiae	bio_esm2_hidden	silhouette_score	-0.0811719000339508	1.0	-0.0811719000339508
+1029	scerevisiae	scerevisiae	bio_esm2_hidden	davies_bouldin_index	2.789618888722142	1.0	2.789618888722142

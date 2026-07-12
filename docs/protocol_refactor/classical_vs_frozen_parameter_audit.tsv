@@ -1,0 +1,65 @@
+model	parameter_group	parameter_name	classical_value	frozen_value	parity_status	impact_level	recommendation	notes
+General	config_source	config_path	configs/classical_baseline_benchmark.yaml	configs/frozen_protocol.yaml	inconsistent_benchmark_breaking	high	Update classical to frozen config	Classical pre-refactor used a separate legacy config.
+General	random_seed	seed_handling	base_seed 1029 + run_id {0,1,2}	explicit seed_list {1029,1030,1031,1032,1033}	inconsistent_benchmark_breaking	high	Update classical to explicit seed_list	Classical had only 3 runs and different run_id labeling.
+General	train_val_test_split	split_source	build_epgat_legacy_dataset with seed/test_fraction/val_fraction per run	frozen manifests from results/frozen_protocol/splits/*.tsv	inconsistent_benchmark_breaking	high	Update classical to frozen manifests	Split generation contract differed entirely.
+General	class_imbalance	bce_loss	BalancedBCE	BalancedBCE	identical	low	Keep	Overlapping torch models use the same loss family.
+General	output_schema	metrics_columns	auroc;auprc;mcc;f1;accuracy;specificity plus val_auroc;val_auprc;val_mcc	test_auroc;test_auprc;test_mcc;test_f1;test_accuracy plus val_auroc;val_auprc;val_mcc;val_f1;val_accuracy plus protocol metadata	inconsistent_benchmark_breaking	high	Update classical to frozen schema	Classical summary schema was not frozen-compatible.
+General	evaluation_metrics	test_specificity	present	absent	different_but_acceptable	low	Document or drop	Classical reported specificity; frozen does not.
+MLP	feature_setting	feature_setting	ORT;EXP;SUB;ORT_EXP;ORT_SUB;EXP_SUB;ORT_EXP_SUB	ORT_EXP_SUB	inconsistent_benchmark_breaking	high	Use frozen setting for benchmark parity	Classical was mixing feature ablation workflow with benchmark workflow.
+MLP	network_architecture	hidden_dim	32	32	identical	low	Keep	
+MLP	regularization	dropout	0.2	0.2	identical	low	Keep	
+MLP	optimizer	learning_rate	0.001	0.001	identical	low	Keep	
+MLP	optimizer	weight_decay	0.0	0.0	identical	low	Keep	
+MLP	training	epochs	500	200	inconsistent_benchmark_breaking	medium	Match frozen	Classical drifted to longer training.
+MLP	training	patience	20	20	identical	low	Keep	
+MLP	training	early_stopping	implicit always-on via patience	explicit true	identical	low	Keep	Behavior is effectively the same.
+MLP	preprocessing	include_degree	false	true	inconsistent_benchmark_breaking	high	Match frozen loader	Feature matrix changed.
+MLP	preprocessing	val_fraction	0.04	0.10	inconsistent_benchmark_breaking	high	Match frozen manifests	Validation set definition changed.
+RF	feature_setting	feature_setting	ORT_EXP_SUB	ORT_EXP_SUB	identical	low	Keep	
+RF	model	n_estimators	500	500	identical	low	Keep	
+RF	model	class_weight	balanced	balanced	identical	low	Keep	
+RF	model	n_jobs	-1	-1	identical	low	Keep	
+RF	preprocessing	include_degree	false	true	inconsistent_benchmark_breaking	high	Match frozen loader	Feature matrix changed.
+RF	preprocessing	val_fraction	0.04	0.10	inconsistent_benchmark_breaking	high	Match frozen manifests	Validation set definition changed.
+SVM	feature_setting	feature_setting	ORT_EXP_SUB	ORT_EXP_SUB	identical	low	Keep	
+SVM	model	C	1.0	1.0	identical	low	Keep	
+SVM	model	kernel	rbf	rbf	identical	low	Keep	
+SVM	model	gamma	scale	scale	identical	low	Keep	
+SVM	model	class_weight	balanced	balanced	identical	low	Keep	
+SVM	preprocessing	include_degree	false	true	inconsistent_benchmark_breaking	high	Match frozen loader	Feature matrix changed.
+SVM	preprocessing	val_fraction	0.04	0.10	inconsistent_benchmark_breaking	high	Match frozen manifests	Validation set definition changed.
+NB	feature_setting	feature_setting	ORT_EXP_SUB	ORT_EXP_SUB	identical	low	Keep	
+NB	preprocessing	include_degree	false	true	inconsistent_benchmark_breaking	high	Match frozen loader	Feature matrix changed.
+NB	preprocessing	val_fraction	0.04	0.10	inconsistent_benchmark_breaking	high	Match frozen manifests	Validation set definition changed.
+N2V_MLP	node2vec	backend	implicit train_node2vec_embeddings default	runtime.node2vec_backend=auto	different_but_acceptable	medium	Prefer frozen backend control	Frozen exposes backend in config.
+N2V_MLP	node2vec	embedding_dim	64	64	identical	low	Keep	
+N2V_MLP	node2vec	walk_length	32	32	identical	low	Keep	
+N2V_MLP	node2vec	context_size	32	32	identical	low	Keep	
+N2V_MLP	node2vec	walks_per_node	16	16	identical	low	Keep	
+N2V_MLP	node2vec	num_negative_samples	1	1	identical	low	Keep	
+N2V_MLP	node2vec	epochs	50	50	identical	low	Keep	
+N2V_MLP	node2vec	batch_size	256	256	identical	low	Keep	
+N2V_MLP	node2vec	learning_rate	0.005	0.005	identical	low	Keep	
+N2V_MLP	mlp	hidden_dim	32	32	identical	low	Keep	
+N2V_MLP	mlp	dropout	0.2	0.2	identical	low	Keep	
+N2V_MLP	mlp	learning_rate	0.001	0.001	identical	low	Keep	
+N2V_MLP	mlp	weight_decay	0.0	0.0	identical	low	Keep	
+N2V_MLP	mlp	epochs	500	200	inconsistent_benchmark_breaking	medium	Match frozen	Classical drifted to longer training.
+N2V_MLP	mlp	patience	20	20	identical	low	Keep	
+N2V_MLP	mlp	early_stopping	implicit always-on via patience	explicit true	identical	low	Keep	
+N2V_MLP	inputs	feature_mix	pure N2V	pure N2V	identical	low	Keep	
+N2V_MLP	preprocessing	include_degree	false	true	different_but_acceptable	medium	Use frozen manifests/loader	For N2V the graph and node universe come from the loader; degree block not used in feature matrix.
+DC	graph	graph_source	build_epgat_legacy_dataset edge_index	native frozen STRING graph filtered by runtime.string_threshold	inconsistent_benchmark_breaking	high	Use frozen loader	Different graph node universe and manifests.
+DC	graph	edge_filtering_threshold	300	300	identical	low	Keep	
+DC	graph	weighted_behavior	unweighted	unweighted	identical	low	Keep	
+DC	evaluation	ranking_to_classification	top_k equals positive labeled count	top_k equals positive labeled count	identical	low	Keep	
+DC	evaluation	output_schema	classical metrics schema	frozen metrics schema	inconsistent_benchmark_breaking	medium	Match frozen	Classical lacked frozen metadata.
+CC	graph	graph_source	build_epgat_legacy_dataset edge_index	native frozen STRING graph filtered by runtime.string_threshold	inconsistent_benchmark_breaking	high	Use frozen loader	Different graph node universe and manifests.
+CC	graph	edge_filtering_threshold	300	300	identical	low	Keep	
+CC	graph	weighted_behavior	unweighted	unweighted	identical	low	Keep	
+CC	evaluation	ranking_to_classification	top_k equals positive labeled count	top_k equals positive labeled count	identical	low	Keep	
+CC	evaluation	output_schema	classical metrics schema	frozen metrics schema	inconsistent_benchmark_breaking	medium	Match frozen	Classical lacked frozen metadata.
+GraphSAGE	invocation	workflow_presence	not invoked in classical workflow	run_frozen_protocol_model only	not_applicable	low	Keep graph models only in frozen all-model workflow	Classical is intentionally baseline-only.
+GCN	invocation	workflow_presence	not invoked in classical workflow	run_frozen_protocol_model only	not_applicable	low	Keep graph models only in frozen all-model workflow	Classical is intentionally baseline-only.
+GAT	invocation	workflow_presence	not invoked in classical workflow	run_frozen_protocol_model only	not_applicable	low	Keep graph models only in frozen all-model workflow	Classical is intentionally baseline-only.
+GIN	invocation	workflow_presence	not invoked in classical workflow	run_frozen_protocol_model only	not_applicable	low	Keep graph models only in frozen all-model workflow	Classical is intentionally baseline-only.

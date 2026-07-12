@@ -1,0 +1,21 @@
+base_config: configs/frozen_protocol.yaml
+summary_prefix: Figure3b
+target_name: fgraminearum
+output_root: outputs/Figure3b
+results_root: results/Figure3b
+protocols:
+  - fgraminearum_newlabel
+models:
+  - GraphSAGE
+feature_setting: ORT_EXP_SUB_ESM2
+esm2_dimensions:
+  - 160
+  - 320
+  - 640
+  - 1280
+seed_list:
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  - 1033

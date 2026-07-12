@@ -1,0 +1,13 @@
+protocol	species	seed	space	metric	value	n	mean	std	variance
+scerevisiae	scerevisiae	1029	bio_input	centroid_distance	4.017195701599121	1	4.017195701599121	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_input	silhouette_score	0.06377463042736053	1	0.06377463042736053	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_input	davies_bouldin_index	4.84108692658611	1	4.84108692658611	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_input	centroid_distance	8.511728286743164	1	8.511728286743164	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_input	silhouette_score	-0.012594479136168957	1	-0.012594479136168957	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_input	davies_bouldin_index	8.283249370460808	1	8.283249370460808	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_hidden	centroid_distance	4.2807135581970215	1	4.2807135581970215	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_hidden	silhouette_score	0.03140733763575554	1	0.03140733763575554	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_hidden	davies_bouldin_index	2.7249805518531427	1	2.7249805518531427	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_hidden	centroid_distance	15.850019454956055	1	15.850019454956055	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_hidden	silhouette_score	-0.0811719000339508	1	-0.0811719000339508	0.0	0.0
+scerevisiae	scerevisiae	1029	bio_esm2_hidden	davies_bouldin_index	2.789618888722142	1	2.789618888722142	0.0	0.0

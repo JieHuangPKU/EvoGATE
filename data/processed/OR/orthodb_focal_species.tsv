@@ -1,0 +1,8 @@
+species_key	taxid	organism_id	scientific_name	assembly_id	gene_count	og_count	mapping_type
+scerevisiae	4932	4932_0	Saccharomyces cerevisiae	GCA_949124715.1			
+celegans	6239	6239_0	Caenorhabditis elegans	GCA_000002985.3			
+melanogaster	7227	7227_0	Drosophila melanogaster	GCA_000001215.4			
+melanogaster	7227	7227_1	Drosophila melanogaster	GCF_000001215.4			
+human	9606	9606_0	Homo sapiens	GCA_018503575.1			
+human	9606	9606_1	Homo sapiens	GCF_009914755.1			
+fgraminearum	229533	229533_0	Fusarium graminearum PH-1	GCF_000240135.3			

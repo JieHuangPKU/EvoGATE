@@ -1,0 +1,25 @@
+stage	metric	count	unit	notes
+column1_yeast_support_universe	total_ph1_entries_scored_for_yeast_support	13152	PH1 transfer-matrix entries	Display universe choice for column 1; keeps total-context aligned with the upstream PH1 presence/absence support screen.
+column1_yeast_support_universe	tracked_subset_shown_in_sankey	1356	displayed transfer records	Bridge-resolved transfer records after display-only omission of the minor Positive class.
+column1_yeast_support_universe	not_in_display_subset	11796	remaining PH1 entries	Includes entries without yeast essential support and all records omitted from the displayed Sankey subset.
+column1_yeast_support_universe	source_records_with_any_yeast_support	1378	aggregated source rows	Summed source_row_count across the Sankey long table.
+column1_yeast_support_universe	resolved_minor_positive_or_unresolved_omitted_records	22	omitted/undisplayed transfer rows	Difference between all aggregated support rows and the displayed Sankey subset.
+column2_orthogroups	total_orthogroups	16652	unique orthogroups	Canonical OrthoFinder orthogroup universe.
+column2_orthogroups	tracked_orthogroups_shown	1255	unique orthogroups	Unique orthogroups represented in the displayed Sankey subset.
+column2_orthogroups	other_orthogroups	15397	unique orthogroups	Orthogroups not represented in the displayed transfer subset.
+column3_canonical_genes	total_bridge_resolved_canonical_genes	12928	unique canonical genes	Unique canonical FGRAMPH1 genes recovered by the protocolized bridge across the PH1 anchor proteome.
+column3_canonical_genes	tracked_mapped_genes_shown	1352	unique canonical genes	Unique canonical genes represented in the displayed Sankey subset.
+column3_canonical_genes	other_canonical_genes	11576	unique canonical genes	Bridge-resolved canonical genes outside the displayed transfer subset.
+column4_final_class	total_resolved_records_before_display_omission	1363	transfer records	Resolved transfer records entering final-class assignment before omission of the minor Positive class.
+column4_final_class	displayed_positive_final	1045	transfer records	Display label corresponding to the original Positive_High class.
+column4_final_class	displayed_excluded	311	transfer records	Displayed excluded class in the Sankey figure.
+column4_final_class	omitted_minor_positive	7	transfer records	Resolved Positive class omitted from display because of very small size.
+panelB_flow_sources	display_flow_scer_only	146	transfer records	Displayed Panel B source node count.
+panelB_flow_source_to_final	scer_only_to_Positive_Final	117	transfer records	Displayed Panel B aggregated source-to-final count.
+panelB_flow_source_to_final	scer_only_to_Excluded	29	transfer records	Displayed Panel B aggregated source-to-final count.
+panelB_flow_sources	display_flow_spom_only	532	transfer records	Displayed Panel B source node count.
+panelB_flow_source_to_final	spom_only_to_Positive_Final	399	transfer records	Displayed Panel B aggregated source-to-final count.
+panelB_flow_source_to_final	spom_only_to_Excluded	133	transfer records	Displayed Panel B aggregated source-to-final count.
+panelB_flow_sources	display_flow_both	678	transfer records	Displayed Panel B source node count.
+panelB_flow_source_to_final	both_to_Positive_Final	529	transfer records	Displayed Panel B aggregated source-to-final count.
+panelB_flow_source_to_final	both_to_Excluded	149	transfer records	Displayed Panel B aggregated source-to-final count.

@@ -1,0 +1,12 @@
+audit_check	status	detail
+RF_present	PASS	RF detected in benchmark outputs
+train_fraction_complete	PASS	10,20,30,40,50,60,70,80,90
+seed_complete	PASS	1029,1030,1031,1032,1033
+test_set_fixed_across_all_manifests	PASS	unique_test_sets=1
+grid_complete::GraphSAGE	PASS	
+grid_complete::MLP	PASS	
+grid_complete::SVM	PASS	
+grid_complete::RF	PASS	
+grid_complete::N2V_MLP	PASS	
+grid_complete::DC	PASS	
+grid_complete::CC	PASS	

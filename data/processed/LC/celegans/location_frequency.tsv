@@ -1,0 +1,14 @@
+location	gene_count	raw_term_count	example_raw_terms
+Cytoplasm	2999	22	Cytosolic large ribosomal subunit;Cytoplasmic ribonucleoprotein granule;Cytoplasmic region;Cytosolic tRNA wobble base thiouridylase complex;Neuron projection cytoplasm
+Nucleus	1895	54	Nuclear pore;Nuclear RNA-directed RNA polymerase complex;Nucleus;Pericentric heterochromatin;Nuclear replisome
+Cell membrane	1702	17	Basolateral plasma membrane;Cell periphery;Plasma membrane;Lateral plasma membrane;Plasma membrane bounded cell projection cytoplasm
+Secreted	517	10	Extracellular vesicle;Extracellular region;Alae of collagen and cuticulin-based cuticle extracellular matrix;Annuli extracellular matrix;Annular furrow extracellular matrix
+Mitochondrion	515	25	Mitochondrial outer membrane translocase complex;Mitochondrion;Mitochondrial small ribosomal subunit;Extrinsic component of mitochondrial inner membrane;Mitochondrial envelope
+Endoplasmic reticulum	401	18	Endoplasmic reticulum;Endoplasmic reticulum-endosome membrane contact site;Rough endoplasmic reticulum;Sarcoplasmic reticulum membrane;Rough endoplasmic reticulum membrane
+Cytoskeleton	297	36	Actin cytoskeleton;Microtubule organizing center;Meiotic spindle;Axonemal microtubule;Actin filament bundle of actin-based cell projection
+Golgi	245	22	Golgi apparatus;Golgi transport complex;Golgi medial cisterna membrane;Golgi cisterna;trans-Golgi network transport vesicle
+Vacuole	168	6	Vacuole;Lytic vacuole membrane;Vacuolar proton-transporting V-type ATPase, V1 domain;Vacuolar proton-transporting V-type ATPase complex;Vacuolar membrane
+Lysosome	132	2	Lysosomal membrane;Lysosome
+Endosome	130	15	Recycling endosome membrane;Late endosome;Endosome;Postsynaptic early endosome;Postsynaptic early endosome membrane
+Ribosome	112	12	Large ribosomal subunit;Small ribosomal subunit;Organellar small ribosomal subunit;Pwp2p-containing subcomplex of 90S preribosome;Ribosomal subunit
+Peroxisome	72	4	Peroxisome;Peroxisomal matrix;Peroxisomal membrane;Extrinsic component of intraperoxisomal membrane

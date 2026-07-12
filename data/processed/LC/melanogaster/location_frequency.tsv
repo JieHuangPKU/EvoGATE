@@ -1,0 +1,14 @@
+location	gene_count	raw_term_count	example_raw_terms
+Cytoplasm	2281	28	Cytosolic large ribosomal subunit;Dendrite cytoplasm;Cytoplasmic ribonucleoprotein granule;Cytoplasmic side of Golgi membrane;Cytoplasmic region
+Nucleus	1383	59	Nuclear pore;Polytene chromosome chromocenter;Nuclear RNA-directed RNA polymerase complex;Nucleus;Pericentric heterochromatin
+Cell membrane	1210	20	Lateral plasma membrane;External side of plasma membrane;Cytoplasmic side of apical plasma membrane;Basolateral plasma membrane;Plasma membrane raft
+Secreted	642	7	Extracellular vesicle;Extracellular region;Extracellular exosome;Extracellular space;Extracellular matrix
+Mitochondrion	485	33	Mitochondrial ribonuclease P complex;Mitochondrial outer membrane translocase complex;Mitochondrion;Mitochondrial small ribosomal subunit;Mitochondrial endopeptidase Clp complex
+Endoplasmic reticulum	333	20	Endoplasmic reticulum;Smooth endoplasmic reticulum;Endoplasmic reticulum Sec complex;Endoplasmic reticulum cisternal network;Endoplasmic reticulum-endosome membrane contact site
+Cytoskeleton	308	41	Actin cytoskeleton;Microtubule organizing center;Meiotic spindle;Actomyosin contractile ring actin filament;Axonemal microtubule
+Golgi	192	20	Golgi apparatus;Golgi transport complex;Golgi cisterna;trans-Golgi network transport vesicle;cis-Golgi network
+Endosome	134	9	Recycling endosome membrane;Late endosome;Endosome;Recycling endosome;Presynaptic endosome
+Vacuole	100	8	Vacuole;Vacuolar proton-transporting V-type ATPase, V0 domain;Vacuolar HOPS complex;Lytic vacuole membrane;Vacuolar proton-transporting V-type ATPase, V1 domain
+Lysosome	71	8	Autolysosome membrane;Secondary lysosome;Lysosome;Endolysosome membrane;Endolysosome
+Ribosome	65	11	Large ribosomal subunit;Organellar small ribosomal subunit;Ribosome;Ribosomal subunit;preribosome, large subunit precursor
+Peroxisome	59	4	Peroxisome;Peroxisomal matrix;Peroxisomal importomer complex;Peroxisomal membrane

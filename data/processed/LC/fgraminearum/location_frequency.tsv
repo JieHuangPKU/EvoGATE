@@ -1,0 +1,13 @@
+location	gene_count	raw_term_count	example_raw_terms
+Cytoplasm	5158	1	Cytoplasm
+Cell membrane	4650	1	Cell membrane
+Mitochondrion	4054	1	Mitochondrion
+Endoplasmic reticulum	3778	1	Endoplasmic reticulum
+Vacuole	3132	2	Vacuole;Vacuole membrane
+Secreted	2872	1	Secreted
+Nucleus	2516	1	Nucleus
+Peroxisome	2093	1	Peroxisome
+Golgi	1750	1	Golgi
+Endosome	975	1	Endosome
+Multi-pass membrane	889	1	Multi-pass membrane
+Cytoskeleton	128	3	Kinetochore;cytoskeleton;Spindle

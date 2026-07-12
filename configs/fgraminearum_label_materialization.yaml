@@ -1,0 +1,25 @@
+paths:
+  output_root: data/processed/essential_gene/fgraminearum
+  oldlabel_dir: data/processed/essential_gene/fgraminearum/oldlabel
+  newlabel_dir: data/processed/essential_gene/fgraminearum/newlabel
+  bridge_dir: data/processed/essential_gene/fgraminearum/bridge
+  protocol_source_dir: data/interim/protocol_refactor/fgraminearum_label_materialization
+  comparison_tsv: data/processed/essential_gene/fgraminearum/label_regime_comparison.tsv
+  comparison_md: data/processed/essential_gene/fgraminearum/label_regime_comparison.md
+  old_gene_list: /home/jiehuang/software/fungi/EPGAT/data/essential_genes/fgraminearum/EssentialGenes/gene_list.txt
+  old440_mapping_audit: data/interim/protocol_refactor/fgraminearum_label_materialization/old440_mapping_audit.tsv
+  old440_label_summary: data/interim/protocol_refactor/fgraminearum_label_materialization/old440_label_summary.tsv
+  lethal_positive_gene_list: data/interim/protocol_refactor/fgraminearum_label_materialization/lethal_positive_gene_list.tsv
+  yeast_transfer_table: data/derived_labels/ph1_yeast_essential_ortholog_labels.tsv
+  proteome_manifest: data/derived_labels/proteome_manifest.tsv
+  anchor_ncbi_protein_fasta: /data276/jiehuang/fungi/Fusarium/fusarium-protein/ncbi_dataset/data/GCF_000240135.3/protein.faa
+  ph1_legacy_protein_fasta: /home/jiehuang/software/fungi/EPGAT/data/essential_genes/fgraminearum/Orthologs/229533.fasta
+  ph1_legacy_mapping_tab: /home/jiehuang/software/fungi/EPGAT/data/essential_genes/fgraminearum/PPI/mapping.tab
+  ph1_unified_id_map: /data276/jiehuang/fungi/Fusarium/Evidence/00_idmap/FG_gene_id_unified_map.tsv
+  master_evidence_mirror: data/interim/protocol_refactor/master_evidence_table.preliminary.tsv
+
+runtime:
+  split_seed: 20260409
+  test_fraction: 0.20
+  val_fraction: 0.10
+  protocol_version: frozen_protocol_v1

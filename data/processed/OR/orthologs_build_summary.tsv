@@ -1,0 +1,6 @@
+species	downloaded_file_count	target_species_count	label_gene_count	final_gene_count_in_matrix	matrix_column_count	output_csv_path
+fgraminearum	167	167	14145	14145	167	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/fgraminearum/orthologs.csv
+celegans	233	233	13682	13682	233	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/celegans/orthologs.csv
+scerevisiae	62	62	5628	5628	62	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/scerevisiae/orthologs.csv
+melanogaster	203	203	6540	6540	203	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/melanogaster/orthologs.csv
+human	162	162	18458	18458	162	/Users/jiehuang/work/2025禾谷镰刀菌/程序/ProGATE_v2/data/processed/OR/human/orthologs.csv
