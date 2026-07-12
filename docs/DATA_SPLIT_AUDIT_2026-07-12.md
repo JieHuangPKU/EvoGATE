@@ -65,7 +65,7 @@ Each species (human, celegans, scerevisiae, dmelanogaster, fgraminearum) receive
 
 ### 2.2 Model organisms (human, C. elegans, S. cerevisiae, D. melanogaster)
 
-**Data source**: `data/processed/essential_gene/<species>/labels.standard.tsv` — standard labels from OGEE/Bingo/EPGAT (exact provenance disputed, see INC-005).
+**Data source**: `data/processed/essential_gene/<species>/labels.standard.tsv` — standard labels from Bingo/EPGAT (exact provenance disputed, see INC-005).
 
 | Species | Labeled genes | Positives | Positive rate | Split counts (train/val/test) |
 |---------|-------------|-----------|---------------|-------------------------------|

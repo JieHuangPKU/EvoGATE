@@ -20,14 +20,14 @@ ProGATE_v2 是一个基于图神经网络（GraphSAGE）和蛋白语言模型（
 | **标签来源** | PHI-base lethal基因 + 酵母必需基因直系同源迁移 (newlabel: 1097正/10868负) |
 | **ESM2模型** | esm2_t33_650M_UR50D (650M参数, embedding dim 1280) |
 | **PPI网络** | STRING v12 (threshold=300) + eFG (Fusarium专用) |
-| **评估协议** | 5种子(1029-1033), 80/10/10 train/val/test分层划分 |
+| **评估协议** | 5种子(1029-1033), 70/10/10 train/val/test分层划分 |
 
 ### 0.2 当前5组Figure验证的假设
 
 | Figure | 验证假设 | 核心配置 |
 |--------|---------|---------|
 | **Figure1** | 标签稀缺是领域核心挑战；标签重建流程可追溯；跨物种标签迁移可行 | 标签来源Sankey、物种特征表、经典基线benchmark |
-| **Figure2** (label_scarcity) | GraphSAGE+ESM2在低标签率(10%-90%)下显著优于传统ML方法和纯网络中心性方法 | 7种模型 x 9个标签率 x 5种子 |
+| **Figure2** (label_scarcity) | 在低标签率(10%-90%)下比较GraphSAGE+ESM2与传统ML和网络方法（注意：10%标签率时MLP的AUPRC排名第一，GraphSAGE排名第三，不可声称GraphSAGE绝对优势） | 7种模型 x 9个标签率 x 5种子 |
 | **Figure3** (3a/3b/3c) | ESM2特征对GraphSAGE有额外增益; gated residual融合优于简单拼接; 不同融合策略和损失函数有显著差异 | 早期拼接 vs gated vs residual_gated_concat x BCE vs wBCE |
 | **Figure4** | 图结构质量(STRING阈值、eFG来源)影响模型鲁棒性,但GraphSAGE+ESM2在合理范围内稳定 | 多阈值扫描(100-900), 多PPI来源对比 |
 | **Figure5** (5a-5d) | ESM2引入后,隐层表征可解释: UMAP错误迁移、特征组归因、新候选致病基因有生物学意义 | UMAP投影、输入vs隐层对比、特征组消融(zero-out masking)、候选基因优先级排序 |
@@ -394,9 +394,9 @@ P2 (锦上添花):
 
 | 物种 | 节点数(约) | 边数(STRING300, 约) | 正标签 | 负标签 | ESM2维度 |
 |------|-----------|-------------------|--------|--------|----------|
-| Human | 18000 | 300K | OGEE标准 | OGEE标准 | 1280 |
-| C. elegans | 14000 | 200K | OGEE标准 | OGEE标准 | 1280 |
-| S. cerevisiae | 6000 | 200K | OGEE标准 | OGEE标准 | 1280 |
-| D. melanogaster | 11000 | 100K | OGEE标准 | OGEE标准 | 1280 |
+| Human | 18000 | 300K | Bingo标准 | Bingo标准 | 1280 |
+| C. elegans | 14000 | 200K | Bingo标准 | Bingo标准 | 1280 |
+| S. cerevisiae | 6000 | 200K | Bingo标准 | Bingo标准 | 1280 |
+| D. melanogaster | 11000 | 100K | Bingo标准 | Bingo标准 | 1280 |
 | **F. graminearum** (newlabel) | 12000 | 80K(STRING)/14K(eFG) | **1097** | **10868** | 1280 |
 | F. graminearum (oldlabel) | 12000 | 同上 | 439 | 10750 | 1280 |
